@@ -1,0 +1,685 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - banner [ref=e8]:
+        - img "Hari" [ref=e10]
+      - generic [ref=e11]:
+        - navigation [ref=e12]:
+          - link "icon Dashboards" [ref=e13] [cursor=pointer]:
+            - /url: /dashboard
+            - img "icon" [ref=e15]
+            - generic [ref=e17]: Dashboards
+        - navigation [ref=e18]:
+          - link "icon Dashboard AI" [ref=e19] [cursor=pointer]:
+            - /url: /dashboardai
+            - img "icon" [ref=e21]
+            - generic [ref=e23]: Dashboard AI
+        - navigation [ref=e24]:
+          - link "icon Calendar" [ref=e25] [cursor=pointer]:
+            - /url: /calendar
+            - img "icon" [ref=e27]
+            - generic [ref=e29]: Calendar
+        - navigation [ref=e30]:
+          - link "icon Patients" [ref=e31] [cursor=pointer]:
+            - /url: /clients
+            - img "icon" [ref=e33]
+            - generic [ref=e35]: Patients
+        - navigation [ref=e36]:
+          - link "icon Communication" [ref=e37] [cursor=pointer]:
+            - /url: /communication/whatsapp
+            - img "icon" [ref=e39]
+            - generic [ref=e41]: Communication
+        - navigation [ref=e42]:
+          - link "icon Leads" [ref=e43] [cursor=pointer]:
+            - /url: /leads
+            - img "icon" [ref=e45]
+            - generic [ref=e47]: Leads
+        - navigation [ref=e48]:
+          - link "icon Inventory" [ref=e49] [cursor=pointer]:
+            - /url: /inventory
+            - img "icon" [ref=e51]
+            - generic [ref=e53]: Inventory
+        - navigation [ref=e54]:
+          - link "icon Quicksales" [ref=e55] [cursor=pointer]:
+            - /url: /quicksale
+            - img "icon" [ref=e57]
+            - generic [ref=e59]: Quicksales
+        - navigation [ref=e60]:
+          - link "icon Expenses" [ref=e61] [cursor=pointer]:
+            - /url: /expenses
+            - img "icon" [ref=e63]
+            - generic [ref=e65]: Expenses
+        - navigation [ref=e66]:
+          - link "icon Reports" [ref=e67] [cursor=pointer]:
+            - /url: /report
+            - img "icon" [ref=e69]
+            - generic [ref=e71]: Reports
+        - navigation [ref=e72]:
+          - link "icon Activities" [ref=e73] [cursor=pointer]:
+            - /url: /activities
+            - img "icon" [ref=e75]
+            - generic [ref=e77]: Activities
+        - navigation [ref=e78]:
+          - link "icon Pharmacy" [ref=e79] [cursor=pointer]:
+            - /url: /pharma
+            - img "icon" [ref=e81]
+            - generic [ref=e83]: Pharmacy
+        - navigation [ref=e84]:
+          - link "icon Products" [ref=e85] [cursor=pointer]:
+            - /url: /products
+            - img "icon" [ref=e87]
+            - generic [ref=e89]: Products
+        - navigation [ref=e90]:
+          - link "icon Check In" [ref=e91] [cursor=pointer]:
+            - /url: /checkin
+            - img "icon" [ref=e93]
+            - generic [ref=e95]: Check In
+        - navigation [ref=e96]:
+          - link "icon Chatbot" [ref=e97] [cursor=pointer]:
+            - /url: /chats
+            - img "icon" [ref=e99]
+            - generic [ref=e101]: Chatbot
+        - navigation [ref=e102]:
+          - link "icon Microsite" [ref=e103] [cursor=pointer]:
+            - /url: /profile
+            - img "icon" [ref=e105]
+            - generic [ref=e107]: Microsite
+        - navigation [ref=e108]:
+          - link "icon Events" [ref=e109] [cursor=pointer]:
+            - /url: /events
+            - img "icon" [ref=e111]
+            - generic [ref=e113]: Events
+        - navigation [ref=e114]:
+          - link "icon Chat bots" [ref=e115] [cursor=pointer]:
+            - /url: /consult
+            - img "icon" [ref=e117]
+            - generic [ref=e119]: Chat bots
+        - navigation [ref=e120]:
+          - link "icon Attendance" [ref=e121] [cursor=pointer]:
+            - /url: /attendance
+            - img "icon" [ref=e123]
+            - generic [ref=e125]: Attendance
+        - navigation [ref=e126]:
+          - link "icon Settings" [ref=e127] [cursor=pointer]:
+            - /url: /setting
+            - img "icon" [ref=e129]
+            - generic [ref=e131]: Settings
+        - navigation [ref=e132]:
+          - link "icon Feedbacks" [ref=e133] [cursor=pointer]:
+            - /url: /feedback
+            - img "icon" [ref=e135]
+            - generic [ref=e137]: Feedbacks
+        - separator [ref=e138]
+        - generic [ref=e139]:
+          - heading "Powered by" [level=6] [ref=e140]
+          - img "lyfngo" [ref=e141]
+          - img "lyfngo" [ref=e142]
+    - main [ref=e143]:
+      - generic [ref=e146]:
+        - generic [ref=e151]:
+          - combobox "Establishment Name" [ref=e152]: Hosptial_multicare
+          - button "Open" [ref=e154] [cursor=pointer]:
+            - img [ref=e155]
+        - generic [ref=e157]:
+          - generic [ref=e159]:
+            - generic [ref=e163]:
+              - combobox "Advance" [ref=e164]: Mobile No
+              - button "Open" [ref=e166] [cursor=pointer]:
+                - img [ref=e167]
+              - group
+            - generic [ref=e174]:
+              - combobox "Exp - 9000111110" [ref=e175]
+              - button "Open" [ref=e177] [cursor=pointer]:
+                - img [ref=e178]
+              - group
+          - button "Add Patient" [ref=e180] [cursor=pointer]:
+            - img [ref=e181]
+          - button "Add Appointment" [ref=e183] [cursor=pointer]:
+            - img "No drafts found" [ref=e184]
+          - button "More options" [ref=e186] [cursor=pointer]:
+            - img [ref=e187]
+          - button "Settings" [ref=e190] [cursor=pointer]:
+            - img [ref=e191]
+          - button "Notification" [ref=e194] [cursor=pointer]:
+            - generic [ref=e195]:
+              - img [ref=e196]
+              - generic: "0"
+          - separator [ref=e198]
+          - button "Hari Owner H" [ref=e200] [cursor=pointer]:
+            - generic [ref=e201]:
+              - paragraph [ref=e202]: Hari
+              - paragraph [ref=e203]: Owner
+            - generic [ref=e204]: H
+      - generic [ref=e206]:
+        - generic [ref=e208]:
+          - generic [ref=e209]:
+            - button [ref=e211] [cursor=pointer]:
+              - img [ref=e212]
+            - generic [ref=e214]:
+              - generic [ref=e216]: G
+              - generic [ref=e217]:
+                - heading "Guru" [level=5] [ref=e218]
+                - generic [ref=e219]:
+                  - paragraph [ref=e220]: P77
+                  - generic [ref=e221]:
+                    - img [ref=e222]
+                    - paragraph [ref=e224]: +91 9994431669
+                    - img [ref=e227] [cursor=pointer]
+                  - heading "Active" [level=6] [ref=e230] [cursor=pointer]:
+                    - img [ref=e231]
+                    - text: Active
+                    - img [ref=e233]
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - button "summary Add Record" [ref=e237] [cursor=pointer]:
+                - img "summary" [ref=e238]
+                - generic [ref=e239]: Add Record
+              - button "summary View Summary" [ref=e240] [cursor=pointer]:
+                - img "summary" [ref=e241]
+                - generic [ref=e242]: View Summary
+            - generic [ref=e243]:
+              - generic [ref=e244]:
+                - generic [ref=e245]:
+                  - generic "Gender" [ref=e246]:
+                    - img "Gender" [ref=e247]
+                  - heading "Male" [level=6] [ref=e248]
+                - generic [ref=e249]:
+                  - generic "Age" [ref=e250]:
+                    - img "Age" [ref=e251]
+                  - heading "22 Years Old" [level=6] [ref=e252]
+              - generic [ref=e253]:
+                - generic [ref=e254]:
+                  - generic "Weight" [ref=e255]:
+                    - img "Weight" [ref=e256]
+                  - heading "100.0 kg" [level=6] [ref=e257]
+                - generic [ref=e258]:
+                  - generic "Height" [ref=e259]:
+                    - img "Height" [ref=e260]
+                  - heading "11.0 cm" [level=6] [ref=e261]
+                - generic [ref=e262]:
+                  - generic "Body Mass Index" [ref=e263]:
+                    - generic [ref=e264]: BMI
+                  - heading "8264.46" [level=6] [ref=e265]
+                  - heading "Obesity" [level=6] [ref=e266]
+          - generic [ref=e267]:
+            - heading "Total visit" [level=6] [ref=e269]
+            - heading "29" [level=6] [ref=e271]
+            - generic [ref=e272] [cursor=pointer]:
+              - img [ref=e273]
+              - paragraph [ref=e275]: View History
+        - generic [ref=e278]:
+          - generic [ref=e280]:
+            - list [ref=e281]:
+              - button "Patient details Patient details" [ref=e282] [cursor=pointer]:
+                - img "Patient details" [ref=e284]
+                - generic [ref=e286]: Patient details
+            - list [ref=e287]:
+              - button "Health Board Health Board" [ref=e288] [cursor=pointer]:
+                - img "Health Board" [ref=e290]
+                - generic [ref=e292]: Health Board
+            - list [ref=e293]:
+              - button "Appointment Appointment" [ref=e294] [cursor=pointer]:
+                - img "Appointment" [ref=e296]
+                - generic [ref=e298]: Appointment
+            - list [ref=e299]:
+              - button "Communication Communication" [ref=e300] [cursor=pointer]:
+                - img "Communication" [ref=e302]
+                - generic [ref=e304]: Communication
+            - list [ref=e305]:
+              - button "Vital signs Vital signs" [ref=e306] [cursor=pointer]:
+                - img "Vital signs" [ref=e308]
+                - generic [ref=e310]: Vital signs
+            - list [ref=e311]:
+              - button "Visit history Visit history" [ref=e312] [cursor=pointer]:
+                - img "Visit history" [ref=e314]
+                - generic [ref=e316]: Visit history
+            - list [ref=e317]:
+              - button "Clinical notes Clinical notes" [ref=e318] [cursor=pointer]:
+                - img "Clinical notes" [ref=e320]
+                - generic [ref=e322]: Clinical notes
+            - list [ref=e323]:
+              - button "Prescription Prescription" [ref=e324] [cursor=pointer]:
+                - img "Prescription" [ref=e326]
+                - generic [ref=e328]: Prescription
+            - list [ref=e329]:
+              - button "Files Files" [ref=e330] [cursor=pointer]:
+                - img "Files" [ref=e332]
+                - generic [ref=e334]: Files
+            - list [ref=e335]:
+              - button "Treatment Treatment" [ref=e336] [cursor=pointer]:
+                - img "Treatment" [ref=e338]
+                - generic [ref=e340]: Treatment
+            - list [ref=e341]:
+              - button "Completed procedure Completed procedure" [ref=e342] [cursor=pointer]:
+                - img "Completed procedure" [ref=e344]
+                - generic [ref=e346]: Completed procedure
+            - list [ref=e347]:
+              - button "Billing Billing" [ref=e348] [cursor=pointer]:
+                - img "Billing" [ref=e350]
+                - generic [ref=e352]: Billing
+            - list [ref=e353]:
+              - button "Package Package" [ref=e354] [cursor=pointer]:
+                - img "Package" [ref=e356]
+                - generic [ref=e358]: Package
+            - list [ref=e359]:
+              - button "Treatment plan Treatment plan" [ref=e360] [cursor=pointer]:
+                - img "Treatment plan" [ref=e362]
+                - generic [ref=e364]: Treatment plan
+            - list [ref=e365]:
+              - button "Dietplan Dietplan" [ref=e366] [cursor=pointer]:
+                - img "Dietplan" [ref=e368]
+                - generic [ref=e370]: Dietplan
+            - list [ref=e371]:
+              - button "Billing history Billing history" [ref=e372] [cursor=pointer]:
+                - img "Billing history" [ref=e374]
+                - generic [ref=e376]: Billing history
+            - list [ref=e377]:
+              - button "Patient feed Patient feed" [ref=e378] [cursor=pointer]:
+                - img "Patient feed" [ref=e380]
+                - generic [ref=e382]: Patient feed
+            - list [ref=e383]:
+              - button "Review Review" [ref=e384] [cursor=pointer]:
+                - img "Review" [ref=e386]
+                - generic [ref=e388]: Review
+            - list [ref=e389]:
+              - button "Events and Forms Events and Forms" [ref=e390] [cursor=pointer]:
+                - img "Events and Forms" [ref=e392]
+                - generic [ref=e394]: Events and Forms
+            - list [ref=e395]:
+              - button "Delete profile Delete profile" [ref=e396] [cursor=pointer]:
+                - img "Delete profile" [ref=e398]
+                - generic [ref=e400]: Delete profile
+          - generic [ref=e401]:
+            - button [ref=e403] [cursor=pointer]:
+              - img [ref=e404]
+            - tabpanel [ref=e407]:
+              - paragraph [ref=e409]:
+                - generic [ref=e410]:
+                  - generic [ref=e414] [cursor=pointer]:
+                    - img "View Files History" [ref=e415]
+                    - img "View Billing History" [ref=e416]
+                    - button "Add appointment" [ref=e417]: Add appointment
+                  - generic [ref=e420]:
+                    - generic [ref=e421] [cursor=pointer]:
+                      - generic [ref=e423]:
+                        - generic [ref=e424]:
+                          - paragraph [ref=e425]: 10/12/2025
+                          - paragraph [ref=e426]: cancelled
+                        - paragraph [ref=e428]:
+                          - text: 11:00 AM-12:00 PM
+                          - generic [ref=e429]: (60 mins)
+                        - paragraph [ref=e431]:
+                          - text: "Created on:"
+                          - generic [ref=e432]: 02-12-2025 05:02 PM (Owner)
+                        - paragraph [ref=e434]:
+                          - text: "Modified on:"
+                          - generic [ref=e435]: 02-12-2025 05:04 PM
+                      - generic [ref=e436]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e438]: SpecialistDr.Raj
+                        - paragraph [ref=e440]: Appointment NoAPT-2025-12-10-001
+                        - paragraph [ref=e442]: Mode in-person
+                      - generic [ref=e443]:
+                        - generic [ref=e444]:
+                          - paragraph [ref=e446]: Cancelled
+                          - button [ref=e449]:
+                            - img [ref=e450]
+                          - generic "Print Record" [ref=e454]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e455]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e457]:
+                            - img [ref=e458]
+                        - generic [ref=e460]:
+                          - button "Start Consultations" [ref=e461]: Start Consultations
+                          - button "Add Record" [ref=e462]: Add Record
+                          - button "View Record" [ref=e463]: View Record
+                          - button "Add Bill" [ref=e464]: Add Bill
+                    - generic [ref=e465] [cursor=pointer]:
+                      - generic [ref=e467]:
+                        - generic [ref=e468]:
+                          - paragraph [ref=e469]: 02/12/2025
+                          - paragraph [ref=e470]: new
+                        - paragraph [ref=e472]:
+                          - text: 04:38 PM-05:38 PM
+                          - generic [ref=e473]: (60 mins)
+                        - paragraph [ref=e475]:
+                          - text: "Created on:"
+                          - generic [ref=e476]: 02-12-2025 04:38 PM (Owner)
+                      - generic [ref=e477]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e479]: Appointment NoAPT-2025-12-02-002
+                        - paragraph [ref=e481]: Mode in-person
+                      - generic [ref=e482]:
+                        - generic [ref=e483]:
+                          - generic [ref=e484]:
+                            - paragraph [ref=e485]: Check In
+                            - button [ref=e486]:
+                              - img [ref=e487]
+                          - button [ref=e491]:
+                            - img [ref=e492]
+                          - generic "Print Record" [ref=e496]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e497]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e499]:
+                            - img [ref=e500]
+                        - generic [ref=e502]:
+                          - button "Add Record" [ref=e503]: Add Record
+                          - button "View Record" [ref=e504]: View Record
+                          - button "Add Bill" [ref=e505]: Add Bill
+                    - generic [ref=e506] [cursor=pointer]:
+                      - generic [ref=e508]:
+                        - generic [ref=e509]:
+                          - paragraph [ref=e510]: 30/11/2025
+                          - paragraph [ref=e511]: cancelled
+                        - paragraph [ref=e513]:
+                          - text: 11:00 AM-12:00 PM
+                          - generic [ref=e514]: (60 mins)
+                        - paragraph [ref=e516]:
+                          - text: "Created on:"
+                          - generic [ref=e517]: 27-11-2025 02:14 PM (Owner)
+                        - paragraph [ref=e519]:
+                          - text: "Modified on:"
+                          - generic [ref=e520]: 27-11-2025 02:17 PM
+                        - generic [ref=e521]:
+                          - img [ref=e522]
+                          - paragraph [ref=e524]: Cancelled
+                      - generic [ref=e525]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e527]: SpecialistDr.Raj
+                        - paragraph [ref=e529]: Appointment NoAPT-2025-11-30-003
+                        - paragraph [ref=e531]: Mode in-person
+                      - generic [ref=e532]:
+                        - generic [ref=e533]:
+                          - paragraph [ref=e535]: Cancelled
+                          - button [ref=e538]:
+                            - img [ref=e539]
+                          - generic "Print Record" [ref=e543]:
+                            - button [ref=e544]:
+                              - img [ref=e545]
+                          - generic [ref=e548]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e550]:
+                            - img [ref=e551]
+                        - generic [ref=e553]:
+                          - button "Start Consultations" [ref=e554]: Start Consultations
+                          - button "Add Record" [ref=e555]: Add Record
+                          - button "View Record" [ref=e556]: View Record
+                          - button "Add Bill" [ref=e557]: Add Bill
+                          - button "View Bill" [ref=e558]: View Bill
+                    - generic [ref=e559] [cursor=pointer]:
+                      - generic [ref=e561]:
+                        - generic [ref=e562]:
+                          - paragraph [ref=e563]: 29/11/2025
+                          - paragraph [ref=e564]: missed
+                        - paragraph [ref=e566]:
+                          - text: 02:14 PM-03:14 PM
+                          - generic [ref=e567]: (60 mins)
+                        - paragraph [ref=e569]:
+                          - text: "Created on:"
+                          - generic [ref=e570]: 27-11-2025 02:14 PM (Owner)
+                      - generic [ref=e571]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e573]: Appointment NoAPT-2025-11-29-012
+                        - paragraph [ref=e575]: Mode in-person
+                      - generic [ref=e576]:
+                        - generic [ref=e577]:
+                          - paragraph [ref=e579]: Missed
+                          - button [ref=e582]:
+                            - img [ref=e583]
+                          - generic "Print Record" [ref=e587]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e588]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e590]:
+                            - img [ref=e591]
+                        - generic [ref=e593]:
+                          - button "Start Consultations" [ref=e594]: Start Consultations
+                          - button "Add Record" [ref=e595]: Add Record
+                          - button "View Record" [ref=e596]: View Record
+                          - button "Add Bill" [ref=e597]: Add Bill
+                    - generic [ref=e598] [cursor=pointer]:
+                      - generic [ref=e600]:
+                        - generic [ref=e601]:
+                          - paragraph [ref=e602]: 29/11/2025
+                          - paragraph [ref=e603]: missed
+                        - paragraph [ref=e605]:
+                          - text: 02:13 PM-03:13 PM
+                          - generic [ref=e606]: (60 mins)
+                        - paragraph [ref=e608]:
+                          - text: "Created on:"
+                          - generic [ref=e609]: 27-11-2025 02:13 PM (Owner)
+                      - generic [ref=e610]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e612]: Appointment NoAPT-2025-11-29-011
+                        - paragraph [ref=e614]: Mode in-person
+                      - generic [ref=e615]:
+                        - generic [ref=e616]:
+                          - paragraph [ref=e618]: Missed
+                          - button [ref=e621]:
+                            - img [ref=e622]
+                          - generic "Print Record" [ref=e626]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e627]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e629]:
+                            - img [ref=e630]
+                        - generic [ref=e632]:
+                          - button "Start Consultations" [ref=e633]: Start Consultations
+                          - button "Add Record" [ref=e634]: Add Record
+                          - button "View Record" [ref=e635]: View Record
+                          - button "Add Bill" [ref=e636]: Add Bill
+                    - generic [ref=e637] [cursor=pointer]:
+                      - generic [ref=e639]:
+                        - generic [ref=e640]:
+                          - paragraph [ref=e641]: 29/11/2025
+                          - paragraph [ref=e642]: cancelled
+                        - paragraph [ref=e644]:
+                          - text: 12:25 PM-01:25 PM
+                          - generic [ref=e645]: (60 mins)
+                        - paragraph [ref=e647]:
+                          - text: "Created on:"
+                          - generic [ref=e648]: 27-11-2025 12:25 PM (Owner)
+                        - paragraph [ref=e650]:
+                          - text: "Modified on:"
+                          - generic [ref=e651]: 27-11-2025 12:26 PM
+                        - generic [ref=e652]:
+                          - img [ref=e653]
+                          - paragraph [ref=e655]: Cancelled
+                      - generic [ref=e656]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e658]: Appointment NoAPT-2025-11-29-9
+                        - paragraph [ref=e660]: Mode in-person
+                      - generic [ref=e661]:
+                        - generic [ref=e662]:
+                          - paragraph [ref=e664]: Cancelled
+                          - button [ref=e667]:
+                            - img [ref=e668]
+                          - generic "Print Record" [ref=e672]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e673]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e675]:
+                            - img [ref=e676]
+                        - generic [ref=e678]:
+                          - button "Start Consultations" [ref=e679]: Start Consultations
+                          - button "Add Record" [ref=e680]: Add Record
+                          - button "View Record" [ref=e681]: View Record
+                          - button "Add Bill" [ref=e682]: Add Bill
+                    - generic [ref=e683] [cursor=pointer]:
+                      - generic [ref=e685]:
+                        - generic [ref=e686]:
+                          - paragraph [ref=e687]: 29/11/2025
+                          - paragraph [ref=e688]: cancelled
+                        - paragraph [ref=e690]:
+                          - text: 11:44 AM-12:44 PM
+                          - generic [ref=e691]: (60 mins)
+                        - paragraph [ref=e693]:
+                          - text: "Created on:"
+                          - generic [ref=e694]: 27-11-2025 11:44 AM (Owner)
+                        - paragraph [ref=e696]:
+                          - text: "Modified on:"
+                          - generic [ref=e697]: 27-11-2025 12:23 PM
+                        - generic [ref=e698]:
+                          - img [ref=e699]
+                          - paragraph [ref=e701]: Cancelled
+                      - generic [ref=e702]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e704]: Appointment NoAPT-2025-11-29-008
+                        - paragraph [ref=e706]: Mode in-person
+                      - generic [ref=e707]:
+                        - generic [ref=e708]:
+                          - paragraph [ref=e710]: Cancelled
+                          - button [ref=e713]:
+                            - img [ref=e714]
+                          - generic "Print Record" [ref=e718]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e719]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e721]:
+                            - img [ref=e722]
+                        - generic [ref=e724]:
+                          - button "Start Consultations" [ref=e725]: Start Consultations
+                          - button "Add Record" [ref=e726]: Add Record
+                          - button "View Record" [ref=e727]: View Record
+                          - button "Add Bill" [ref=e728]: Add Bill
+                    - generic [ref=e729] [cursor=pointer]:
+                      - generic [ref=e731]:
+                        - generic [ref=e732]:
+                          - paragraph [ref=e733]: 29/11/2025
+                          - paragraph [ref=e734]: cancelled
+                        - paragraph [ref=e736]:
+                          - text: 11:32 AM-12:32 PM
+                          - generic [ref=e737]: (60 mins)
+                        - paragraph [ref=e739]:
+                          - text: "Created on:"
+                          - generic [ref=e740]: 27-11-2025 11:32 AM (Owner)
+                        - paragraph [ref=e742]:
+                          - text: "Modified on:"
+                          - generic [ref=e743]: 27-11-2025 11:37 AM
+                        - generic [ref=e744]:
+                          - img [ref=e745]
+                          - paragraph [ref=e747]: Cancelled
+                      - generic [ref=e748]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e750]: Appointment NoAPT-2025-11-29-007
+                        - paragraph [ref=e752]: Mode in-person
+                      - generic [ref=e753]:
+                        - generic [ref=e754]:
+                          - paragraph [ref=e756]: Cancelled
+                          - button [ref=e759]:
+                            - img [ref=e760]
+                          - generic "Print Record" [ref=e764]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e765]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e767]:
+                            - img [ref=e768]
+                        - generic [ref=e770]:
+                          - button "Start Consultations" [ref=e771]: Start Consultations
+                          - button "Add Record" [ref=e772]: Add Record
+                          - button "View Record" [ref=e773]: View Record
+                          - button "Add Bill" [ref=e774]: Add Bill
+                    - generic [ref=e775] [cursor=pointer]:
+                      - generic [ref=e777]:
+                        - generic [ref=e778]:
+                          - paragraph [ref=e779]: 29/11/2025
+                          - paragraph [ref=e780]: cancelled
+                        - paragraph [ref=e782]:
+                          - text: 10:00 AM-10:30 AM
+                          - generic [ref=e783]: (30 mins)
+                        - paragraph [ref=e785]:
+                          - text: "Created on:"
+                          - generic [ref=e786]: 26-11-2025 12:20 PM (Owner)
+                        - paragraph [ref=e788]:
+                          - text: "Modified on:"
+                          - generic [ref=e789]: 27-11-2025 11:43 AM
+                        - generic [ref=e790]:
+                          - img [ref=e791]
+                          - paragraph [ref=e793]: Cancelled
+                      - generic [ref=e794]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e796]: Appointment NoAPT-2025-11-29-003
+                        - paragraph [ref=e798]: Mode in-person
+                      - generic [ref=e799]:
+                        - generic [ref=e800]:
+                          - paragraph [ref=e802]: Cancelled
+                          - button [ref=e805]:
+                            - img [ref=e806]
+                          - generic "Print Record" [ref=e810]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e811]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e813]:
+                            - img [ref=e814]
+                        - generic [ref=e816]:
+                          - button "Start Consultations" [ref=e817]: Start Consultations
+                          - button "Add Record" [ref=e818]: Add Record
+                          - button "View Record" [ref=e819]: View Record
+                          - button "Add Bill" [ref=e820]: Add Bill
+                    - generic [ref=e821] [cursor=pointer]:
+                      - generic [ref=e823]:
+                        - generic [ref=e824]:
+                          - paragraph [ref=e825]: 28/11/2025
+                          - paragraph [ref=e826]: missed
+                        - paragraph [ref=e828]:
+                          - text: 05:00 PM-06:00 PM
+                          - generic [ref=e829]: (60 mins)
+                        - paragraph [ref=e831]:
+                          - text: "Created on:"
+                          - generic [ref=e832]: 28-11-2025 10:39 AM (Owner)
+                      - generic [ref=e833]:
+                        - generic:
+                          - paragraph
+                        - paragraph [ref=e835]: Appointment NoAPT-2025-11-28-010
+                        - paragraph [ref=e837]: Mode in-person
+                      - generic [ref=e838]:
+                        - generic [ref=e839]:
+                          - paragraph [ref=e841]: Missed
+                          - button [ref=e844]:
+                            - img [ref=e845]
+                          - generic "Print Record" [ref=e849]:
+                            - button [disabled]:
+                              - img
+                          - generic [ref=e850]:
+                            - button "Share" [disabled]:
+                              - img
+                          - button [ref=e852]:
+                            - img [ref=e853]
+                        - generic [ref=e855]:
+                          - button "Start Consultations" [ref=e856]: Start Consultations
+                          - button "Add Record" [ref=e857]: Add Record
+                          - button "View Record" [ref=e858]: View Record
+                          - button "Add Bill" [ref=e859]: Add Bill
+  - img
+```

@@ -1,0 +1,718 @@
+[
+  {
+    "url": "https://flash.lyf.yoga/files/products/getExpandableStocks/gkmlrlz0",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "message": "Expandable_Fetched",
+      "tentUuid": null,
+      "data": []
+    },
+    "timestamp": 1764663837257
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/settings/autoId/getInventoryItemNumber/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 201,
+    "response": {
+      "status": "success",
+      "message": "suc_number_fetched",
+      "tentUuid": null,
+      "data": {
+        "inventoryItemNo": "IV33",
+        "isItemNumberActive": false
+      }
+    },
+    "timestamp": 1764663843876
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/itemsList",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [],
+      "message": null
+    },
+    "timestamp": 1764663843876
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/categoryList/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [
+        {
+          "itemCategoryName": "vitamins",
+          "itemCatUuid": "2v6t0rkd"
+        },
+        {
+          "itemCategoryName": "Cold",
+          "itemCatUuid": "fr3440k3"
+        },
+        {
+          "itemCategoryName": "respirator",
+          "itemCatUuid": "tv862n4f"
+        },
+        {
+          "itemCategoryName": "trips",
+          "itemCatUuid": "5dxjb6wq"
+        },
+        {
+          "itemCategoryName": "food",
+          "itemCatUuid": "7fs3pyu6"
+        }
+      ],
+      "message": "suc_categoryFetched"
+    },
+    "timestamp": 1764663843876
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/stockingUnitList/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [
+        {
+          "name": "one",
+          "tentUuid": null,
+          "tentUserUuid": null
+        },
+        {
+          "name": "bottle",
+          "tentUuid": null,
+          "tentUserUuid": null
+        },
+        {
+          "name": "strip",
+          "tentUuid": null,
+          "tentUserUuid": null
+        }
+      ],
+      "message": "suc_stockingUnitsFetched"
+    },
+    "timestamp": 1764663843877
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/communication/lookuptype?mastLookupType=UST&mastTentUuid=73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": true,
+      "data": [
+        {
+          "mastLookupKey": "01",
+          "mastLookupValue": "Gm",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "d2s4zj0t",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "02",
+          "mastLookupValue": "% W/W",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "tugtwuwt",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "03",
+          "mastLookupValue": "% W/V",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "xxdcoupo",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "04",
+          "mastLookupValue": "%",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "xlcrpsai",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "05",
+          "mastLookupValue": "Units",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "foe008x",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "06",
+          "mastLookupValue": "Iu",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "b6zg7fbq",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "07",
+          "mastLookupValue": "Million Spores",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "qwzunrbv",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "08",
+          "mastLookupValue": "Mg Sr",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "h84naer",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "09",
+          "mastLookupValue": "Mg",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "3eddxqq",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "10",
+          "mastLookupValue": "Mcg",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "ogi73qt7",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "11",
+          "mastLookupValue": "Na",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "68vld6fo",
+          "mastTentUuid": null
+        }
+      ],
+      "message": "Data fetched successfully"
+    },
+    "timestamp": 1764663843877
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/communication/lookuptype?mastLookupType=ITM&mastTentUuid=73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": true,
+      "data": [
+        {
+          "mastLookupKey": "ITM1",
+          "mastLookupValue": "Drugs",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "5lq6vepj",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "ITM2",
+          "mastLookupValue": "Supplies",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "o471ryks",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "ITM3",
+          "mastLookupValue": "Equipments",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "6pdctumb",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "ITM4",
+          "mastLookupValue": "Food",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "8y4jfe9j",
+          "mastTentUuid": null
+        }
+      ],
+      "message": "Data fetched successfully"
+    },
+    "timestamp": 1764663843877
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/find/tenantDrugTypes/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "200 OK",
+      "data": [
+        {
+          "categoryName": "insulin",
+          "drugName": "dolo",
+          "drugCatalogUuid": "cin9pwkt"
+        },
+        {
+          "categoryName": "insulin",
+          "drugName": "para150",
+          "drugCatalogUuid": "06zs5op7"
+        },
+        {
+          "categoryName": "action or",
+          "drugName": "action or",
+          "drugCatalogUuid": "8bqk25z6"
+        },
+        {
+          "categoryName": "Analgesic",
+          "drugName": "5-zine-d",
+          "drugCatalogUuid": "r8hk488i"
+        },
+        {
+          "categoryName": "anti cold tablets",
+          "drugName": "nose cold",
+          "drugCatalogUuid": "sxw3jgln"
+        },
+        {
+          "categoryName": "diclofenac",
+          "drugName": "serratiopeptidase",
+          "drugCatalogUuid": "ss7kt3y8"
+        },
+        {
+          "categoryName": "dolo",
+          "drugName": "cheston cold",
+          "drugCatalogUuid": "7e1bqrwb"
+        },
+        {
+          "categoryName": "serratiopeptidase",
+          "drugName": "copcial",
+          "drugCatalogUuid": "sn1ppxab"
+        },
+        {
+          "categoryName": "cipla",
+          "drugName": "cipla",
+          "drugCatalogUuid": "mq0jrazo"
+        },
+        {
+          "categoryName": "Nervous Injection",
+          "drugName": "Nervous Injection",
+          "drugCatalogUuid": "g5iv4r5v"
+        },
+        {
+          "categoryName": "para Injection",
+          "drugName": "para Injection",
+          "drugCatalogUuid": "8kcyqxsn"
+        },
+        {
+          "categoryName": "diclo Injection",
+          "drugName": "diclo Injection",
+          "drugCatalogUuid": "chy0tmf1"
+        },
+        {
+          "categoryName": "dolo",
+          "drugName": "testx",
+          "drugCatalogUuid": "2j9cw69b"
+        },
+        {
+          "categoryName": "diclo",
+          "drugName": "diclo",
+          "drugCatalogUuid": "2mgju9ei"
+        },
+        {
+          "categoryName": "tara",
+          "drugName": "tara",
+          "drugCatalogUuid": "agzmzkrz"
+        },
+        {
+          "categoryName": "dolo",
+          "drugName": "rr",
+          "drugCatalogUuid": "q4naufy8"
+        }
+      ],
+      "message": "succ_fetched"
+    },
+    "timestamp": 1764663843877
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/manufacturer/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [
+        {
+          "manufactureName": "zee para"
+        }
+      ],
+      "message": null
+    },
+    "timestamp": 1764663843877
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/file/getCategoryList",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "SUCCESS",
+      "message": "FETCHED",
+      "data": [
+        {
+          "categoryName": "IDENTITY",
+          "description": "Contains identity details files",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "z31iujwr"
+        },
+        {
+          "categoryName": "ESTABLISHMENT_PROOF",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "bgeg5gcq"
+        },
+        {
+          "categoryName": "AWARDS",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "23z7yy9x"
+        },
+        {
+          "categoryName": "MEMEBERSHIP",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "srs8cfsw"
+        },
+        {
+          "categoryName": "TENT_GROUP",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "sxtqllyg"
+        },
+        {
+          "categoryName": "CUSTOMER_PROFILE_PIC_B2B",
+          "description": "upload customer profile pic in b2b",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\"]",
+          "uuid": "7o4t8wya"
+        },
+        {
+          "categoryName": "TENT_LOGO",
+          "description": "upload tent logo",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\"]",
+          "uuid": "27ltmjgz"
+        },
+        {
+          "categoryName": "BSC_PROFILE_PIC",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/pipeg\",\"image/x-png\"]",
+          "uuid": "7ba4gxlz"
+        },
+        {
+          "categoryName": "VITAL_SIGN",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "kbngxz4i"
+        },
+        {
+          "categoryName": "CLINICAL_NOTES",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "5o7obl13"
+        },
+        {
+          "categoryName": "FILES",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "0vcxil1g"
+        },
+        {
+          "categoryName": "PRESCRIPTIONS",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "qwtcees"
+        },
+        {
+          "categoryName": "LAB_ORDERS",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "0sthiwkt"
+        },
+        {
+          "categoryName": "TREATMENT_PLAN",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "moz96g4"
+        },
+        {
+          "categoryName": "DIET_PLAN",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "35pv83qv"
+        },
+        {
+          "categoryName": "WORKOUT_PLAN",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "x4230dnh"
+        },
+        {
+          "categoryName": "BILLING",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "00wo5ga"
+        },
+        {
+          "categoryName": "APPOINTMENT",
+          "description": "appointment related data",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "b7aogpoz"
+        },
+        {
+          "categoryName": "COMPLETED_PROCEDURE",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "1yx1zmiq"
+        },
+        {
+          "categoryName": "client_customer",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "mpm74rns"
+        },
+        {
+          "categoryName": "CONSENT_FORM",
+          "description": "Customer consentform",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "gi5ea7sz"
+        },
+        {
+          "categoryName": "TENT_USER_SIGN",
+          "description": "tent user signature",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "hu1pd417"
+        },
+        {
+          "categoryName": "PROFILE_MODULE",
+          "description": "profile module file upload",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\"]",
+          "uuid": "5tks3a0o"
+        },
+        {
+          "categoryName": "ATTENDANCE_MANAGEMENT",
+          "description": "attendance management file upload",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\"]",
+          "uuid": "5aizrdlu"
+        },
+        {
+          "categoryName": "CERTIFICATES",
+          "description": "any certificates",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "5ce7mb03"
+        },
+        {
+          "categoryName": "CONSULT_SEND",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\",\"ogg\",\"webm\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\",\"video/ogg\",\"audio/ogg\",\"application/x-matroska\",\"audio/ogg; codecs=opus\", \"audio/opus\",\"audio/x-caf\",\"audio/webm\"]",
+          "uuid": "ujfuq49f"
+        },
+        {
+          "categoryName": "WHATSAPP_DIETPLAN",
+          "description": "Customer uploaded document for Diet Plan",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\"]",
+          "uuid": "ne7gzi6v"
+        },
+        {
+          "categoryName": "IMPORT_EXPORT",
+          "description": "import and export purpose",
+          "maxFileSize": null,
+          "extension": "[\"xls\",\"xlsx\",\"xlsb\",\"sql\",\"mdb\",\"csv\",\"zip\",\"rar\",\"srt\"]",
+          "allowedType": "[\"application/vnd.ms-excel\",\r\n\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet\",\r\n\"application/vnd.ms-excel.sheet.binary.macroEnabled.12\",\r\n\"application/sql\",\r\n\"application/octet-stream\",\r\n\"text/csv\",\r\n\"application/zip\",\r\n\"application/vnd.rar\",\r\n\"application/pdf\",\r\n\"text/plain\",\r\n\"application/x-tika-ooxml\"]",
+          "uuid": "otq8aqmu"
+        },
+        {
+          "categoryName": "MMV",
+          "description": "mmv files",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "i4ygi4gv"
+        },
+        {
+          "categoryName": "MMV_PROFILE_PIC",
+          "description": "mmv cust profile pic",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\"]",
+          "uuid": "hnrwpvgb"
+        },
+        {
+          "categoryName": "META_TEMPLATES",
+          "description": "meta template purpose",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "y3o838wt"
+        },
+        {
+          "categoryName": "BODY_AREA",
+          "description": "Body area upload document",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\",\"application/pdf\"]",
+          "uuid": "nz9e8faz"
+        },
+        {
+          "categoryName": "TICKET",
+          "description": "Ticket related upload document",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\",\"application/pdf\"]",
+          "uuid": "3xbnb95u"
+        },
+        {
+          "categoryName": "PERSONAL",
+          "description": "drive storage",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\",\"mp3\",\"m4a\",\"wav\"]",
+          "allowedType": "[\r\n  \"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\r\n  \"image/pipeg\",\"image/x-png\",\"application/pdf\",\r\n  \"video/mp4\",\"audio/mpeg\",\"audio/mp4\",\r\n  \"audio/vnd.wave\"\r\n]",
+          "uuid": "ijwdsyh7"
+        }
+      ]
+    },
+    "timestamp": 1764663843877
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/update/inventory-item/gkmlrlz0",
+    "method": "PUT",
+    "rawPayload": "{\"categoryUuid\":\"2v6t0rkd\",\"itemName\":\"diclo\",\"itemType\":\"DRUGS\",\"stockingUnit\":\"strip\",\"itemCode\":\"INV569\",\"itemInstruction\":\"\",\"itemSubType\":\"diclo\",\"itemTaxUuid\":[],\"inclusiveTax\":false,\"manufacturerName\":\"zee para\",\"reorderLevel\":10,\"retailPrice\":12,\"stockKeepingUnit\":\"\",\"strength\":10,\"strengthUnit\":\"Gm\",\"isNegativeAllowed\":true,\"listingEnabled\":false,\"docDriveUuid\":null,\"filePath\":null,\"listingPrice\":null,\"description\":null,\"min\":10,\"max\":100,\"looseStocks\":false,\"looseStockUnit\":1,\"looseStockQuantity\":null,\"hsnCode\":\"\"}",
+    "payload": "{\"categoryUuid\":\"2v6t0rkd\",\"itemName\":\"diclo\",\"itemType\":\"DRUGS\",\"stockingUnit\":\"strip\",\"itemCode\":\"INV569\",\"itemInstruction\":\"\",\"itemSubType\":\"diclo\",\"itemTaxUuid\":[],\"inclusiveTax\":false,\"manufacturerName\":\"zee para\",\"reorderLevel\":10,\"retailPrice\":12,\"stockKeepingUnit\":\"\",\"strength\":10,\"strengthUnit\":\"Gm\",\"isNegativeAllowed\":true,\"listingEnabled\":false,\"docDriveUuid\":null,\"filePath\":null,\"listingPrice\":null,\"description\":null,\"min\":10,\"max\":100,\"looseStocks\":false,\"looseStockUnit\":1,\"looseStockQuantity\":null,\"hsnCode\":\"\"}",
+    "status": 200,
+    "response": {
+      "status": "success",
+      "message": "ITEM_UPDATED",
+      "tentUuid": "73313fwi",
+      "data": {
+        "uuid": "gkmlrlz0"
+      }
+    },
+    "timestamp": 1764663845880
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/findAll/inventory-items/for/tentMaster/73313fwi?itemType=ALL&stockLevel=ALL&category=ALL&page=0&size=10",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": null,
+    "response": null,
+    "timestamp": 1764663846791
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/itemsList",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": null,
+    "timestamp": 1764663846791
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/categoryList/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": null,
+    "response": null,
+    "timestamp": 1764663846791
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/stockingUnitList/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": null,
+    "response": null,
+    "timestamp": 1764663846791
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/communication/lookuptype?mastLookupType=UST&mastTentUuid=73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": null,
+    "response": null,
+    "timestamp": 1764663846791
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/communication/lookuptype?mastLookupType=ITM&mastTentUuid=73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": null,
+    "response": null,
+    "timestamp": 1764663846791
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/find/tenantDrugTypes/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": null,
+    "response": null,
+    "timestamp": 1764663846791
+  }
+]

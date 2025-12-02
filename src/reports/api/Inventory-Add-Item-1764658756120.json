@@ -1,0 +1,1590 @@
+[
+  {
+    "url": "https://flash.lyf.yoga/files/settings/autoId/getInventoryItemNumber/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 201,
+    "response": {
+      "status": "success",
+      "message": "suc_number_fetched",
+      "tentUuid": null,
+      "data": {
+        "inventoryItemNo": "IV32",
+        "isItemNumberActive": false
+      }
+    },
+    "timestamp": 1764658732732
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/itemsList",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [],
+      "message": null
+    },
+    "timestamp": 1764658732733
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/categoryList/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [
+        {
+          "itemCategoryName": "vitamins",
+          "itemCatUuid": "2v6t0rkd"
+        },
+        {
+          "itemCategoryName": "Cold",
+          "itemCatUuid": "fr3440k3"
+        },
+        {
+          "itemCategoryName": "respirator",
+          "itemCatUuid": "tv862n4f"
+        },
+        {
+          "itemCategoryName": "trips",
+          "itemCatUuid": "5dxjb6wq"
+        },
+        {
+          "itemCategoryName": "food",
+          "itemCatUuid": "7fs3pyu6"
+        }
+      ],
+      "message": "suc_categoryFetched"
+    },
+    "timestamp": 1764658732733
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/stockingUnitList/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [
+        {
+          "name": "one",
+          "tentUuid": null,
+          "tentUserUuid": null
+        },
+        {
+          "name": "bottle",
+          "tentUuid": null,
+          "tentUserUuid": null
+        },
+        {
+          "name": "strip",
+          "tentUuid": null,
+          "tentUserUuid": null
+        }
+      ],
+      "message": "suc_stockingUnitsFetched"
+    },
+    "timestamp": 1764658732733
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/communication/lookuptype?mastLookupType=UST&mastTentUuid=73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": true,
+      "data": [
+        {
+          "mastLookupKey": "01",
+          "mastLookupValue": "Gm",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "d2s4zj0t",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "02",
+          "mastLookupValue": "% W/W",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "tugtwuwt",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "03",
+          "mastLookupValue": "% W/V",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "xxdcoupo",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "04",
+          "mastLookupValue": "%",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "xlcrpsai",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "05",
+          "mastLookupValue": "Units",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "foe008x",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "06",
+          "mastLookupValue": "Iu",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "b6zg7fbq",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "07",
+          "mastLookupValue": "Million Spores",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "qwzunrbv",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "08",
+          "mastLookupValue": "Mg Sr",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "h84naer",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "09",
+          "mastLookupValue": "Mg",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "3eddxqq",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "10",
+          "mastLookupValue": "Mcg",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "ogi73qt7",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "11",
+          "mastLookupValue": "Na",
+          "mastLookupType": "UST",
+          "mastLookupUuid": "68vld6fo",
+          "mastTentUuid": null
+        }
+      ],
+      "message": "Data fetched successfully"
+    },
+    "timestamp": 1764658732733
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/communication/lookuptype?mastLookupType=ITM&mastTentUuid=73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": true,
+      "data": [
+        {
+          "mastLookupKey": "ITM1",
+          "mastLookupValue": "Drugs",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "5lq6vepj",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "ITM2",
+          "mastLookupValue": "Supplies",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "o471ryks",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "ITM3",
+          "mastLookupValue": "Equipments",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "6pdctumb",
+          "mastTentUuid": null
+        },
+        {
+          "mastLookupKey": "ITM4",
+          "mastLookupValue": "Food",
+          "mastLookupType": "ITM",
+          "mastLookupUuid": "8y4jfe9j",
+          "mastTentUuid": null
+        }
+      ],
+      "message": "Data fetched successfully"
+    },
+    "timestamp": 1764658732734
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/find/tenantDrugTypes/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "200 OK",
+      "data": [
+        {
+          "categoryName": "insulin",
+          "drugName": "dolo",
+          "drugCatalogUuid": "cin9pwkt"
+        },
+        {
+          "categoryName": "insulin",
+          "drugName": "para150",
+          "drugCatalogUuid": "06zs5op7"
+        },
+        {
+          "categoryName": "action or",
+          "drugName": "action or",
+          "drugCatalogUuid": "8bqk25z6"
+        },
+        {
+          "categoryName": "Analgesic",
+          "drugName": "5-zine-d",
+          "drugCatalogUuid": "r8hk488i"
+        },
+        {
+          "categoryName": "anti cold tablets",
+          "drugName": "nose cold",
+          "drugCatalogUuid": "sxw3jgln"
+        },
+        {
+          "categoryName": "diclofenac",
+          "drugName": "serratiopeptidase",
+          "drugCatalogUuid": "ss7kt3y8"
+        },
+        {
+          "categoryName": "dolo",
+          "drugName": "cheston cold",
+          "drugCatalogUuid": "7e1bqrwb"
+        },
+        {
+          "categoryName": "serratiopeptidase",
+          "drugName": "copcial",
+          "drugCatalogUuid": "sn1ppxab"
+        },
+        {
+          "categoryName": "cipla",
+          "drugName": "cipla",
+          "drugCatalogUuid": "mq0jrazo"
+        },
+        {
+          "categoryName": "Nervous Injection",
+          "drugName": "Nervous Injection",
+          "drugCatalogUuid": "g5iv4r5v"
+        },
+        {
+          "categoryName": "para Injection",
+          "drugName": "para Injection",
+          "drugCatalogUuid": "8kcyqxsn"
+        },
+        {
+          "categoryName": "diclo Injection",
+          "drugName": "diclo Injection",
+          "drugCatalogUuid": "chy0tmf1"
+        },
+        {
+          "categoryName": "dolo",
+          "drugName": "testx",
+          "drugCatalogUuid": "2j9cw69b"
+        },
+        {
+          "categoryName": "diclo",
+          "drugName": "diclo",
+          "drugCatalogUuid": "2mgju9ei"
+        },
+        {
+          "categoryName": "tara",
+          "drugName": "tara",
+          "drugCatalogUuid": "agzmzkrz"
+        },
+        {
+          "categoryName": "dolo",
+          "drugName": "rr",
+          "drugCatalogUuid": "q4naufy8"
+        }
+      ],
+      "message": "succ_fetched"
+    },
+    "timestamp": 1764658732734
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/manufacturer/73313fwi",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": [
+        {
+          "manufactureName": "zee para"
+        }
+      ],
+      "message": null
+    },
+    "timestamp": 1764658732734
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/file/getCategoryList",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "SUCCESS",
+      "message": "FETCHED",
+      "data": [
+        {
+          "categoryName": "IDENTITY",
+          "description": "Contains identity details files",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "z31iujwr"
+        },
+        {
+          "categoryName": "ESTABLISHMENT_PROOF",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "bgeg5gcq"
+        },
+        {
+          "categoryName": "AWARDS",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "23z7yy9x"
+        },
+        {
+          "categoryName": "MEMEBERSHIP",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "srs8cfsw"
+        },
+        {
+          "categoryName": "TENT_GROUP",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "sxtqllyg"
+        },
+        {
+          "categoryName": "CUSTOMER_PROFILE_PIC_B2B",
+          "description": "upload customer profile pic in b2b",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\"]",
+          "uuid": "7o4t8wya"
+        },
+        {
+          "categoryName": "TENT_LOGO",
+          "description": "upload tent logo",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\"]",
+          "uuid": "27ltmjgz"
+        },
+        {
+          "categoryName": "BSC_PROFILE_PIC",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/pipeg\",\"image/x-png\"]",
+          "uuid": "7ba4gxlz"
+        },
+        {
+          "categoryName": "VITAL_SIGN",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "kbngxz4i"
+        },
+        {
+          "categoryName": "CLINICAL_NOTES",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "5o7obl13"
+        },
+        {
+          "categoryName": "FILES",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "0vcxil1g"
+        },
+        {
+          "categoryName": "PRESCRIPTIONS",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "qwtcees"
+        },
+        {
+          "categoryName": "LAB_ORDERS",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "0sthiwkt"
+        },
+        {
+          "categoryName": "TREATMENT_PLAN",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "moz96g4"
+        },
+        {
+          "categoryName": "DIET_PLAN",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "35pv83qv"
+        },
+        {
+          "categoryName": "WORKOUT_PLAN",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "x4230dnh"
+        },
+        {
+          "categoryName": "BILLING",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "00wo5ga"
+        },
+        {
+          "categoryName": "APPOINTMENT",
+          "description": "appointment related data",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "b7aogpoz"
+        },
+        {
+          "categoryName": "COMPLETED_PROCEDURE",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "1yx1zmiq"
+        },
+        {
+          "categoryName": "client_customer",
+          "description": null,
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "mpm74rns"
+        },
+        {
+          "categoryName": "CONSENT_FORM",
+          "description": "Customer consentform",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "gi5ea7sz"
+        },
+        {
+          "categoryName": "TENT_USER_SIGN",
+          "description": "tent user signature",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "hu1pd417"
+        },
+        {
+          "categoryName": "PROFILE_MODULE",
+          "description": "profile module file upload",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\"]",
+          "uuid": "5tks3a0o"
+        },
+        {
+          "categoryName": "ATTENDANCE_MANAGEMENT",
+          "description": "attendance management file upload",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\"]",
+          "uuid": "5aizrdlu"
+        },
+        {
+          "categoryName": "CERTIFICATES",
+          "description": "any certificates",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "5ce7mb03"
+        },
+        {
+          "categoryName": "CONSULT_SEND",
+          "description": "",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\",\"ogg\",\"webm\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\",\"video/ogg\",\"audio/ogg\",\"application/x-matroska\",\"audio/ogg; codecs=opus\", \"audio/opus\",\"audio/x-caf\",\"audio/webm\"]",
+          "uuid": "ujfuq49f"
+        },
+        {
+          "categoryName": "WHATSAPP_DIETPLAN",
+          "description": "Customer uploaded document for Diet Plan",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\"]",
+          "uuid": "ne7gzi6v"
+        },
+        {
+          "categoryName": "IMPORT_EXPORT",
+          "description": "import and export purpose",
+          "maxFileSize": null,
+          "extension": "[\"xls\",\"xlsx\",\"xlsb\",\"sql\",\"mdb\",\"csv\",\"zip\",\"rar\",\"srt\"]",
+          "allowedType": "[\"application/vnd.ms-excel\",\r\n\"application/vnd.openxmlformats-officedocument.spreadsheetml.sheet\",\r\n\"application/vnd.ms-excel.sheet.binary.macroEnabled.12\",\r\n\"application/sql\",\r\n\"application/octet-stream\",\r\n\"text/csv\",\r\n\"application/zip\",\r\n\"application/vnd.rar\",\r\n\"application/pdf\",\r\n\"text/plain\",\r\n\"application/x-tika-ooxml\"]",
+          "uuid": "otq8aqmu"
+        },
+        {
+          "categoryName": "MMV",
+          "description": "mmv files",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\"image/pipeg\",\"image/x-png\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "i4ygi4gv"
+        },
+        {
+          "categoryName": "MMV_PROFILE_PIC",
+          "description": "mmv cust profile pic",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\"]",
+          "uuid": "hnrwpvgb"
+        },
+        {
+          "categoryName": "META_TEMPLATES",
+          "description": "meta template purpose",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\",\"pdf\",\"mp4\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\",\"application/pdf\",\"video/mp4\"]",
+          "uuid": "y3o838wt"
+        },
+        {
+          "categoryName": "BODY_AREA",
+          "description": "Body area upload document",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\",\"application/pdf\"]",
+          "uuid": "nz9e8faz"
+        },
+        {
+          "categoryName": "TICKET",
+          "description": "Ticket related upload document",
+          "maxFileSize": null,
+          "extension": "[\"jpg\",\"jpeg\",\"png\",\"pdf\"]",
+          "allowedType": "[\"image/jpeg\",\"image/png\",\"image/jpg\",\"application/pdf\"]",
+          "uuid": "3xbnb95u"
+        },
+        {
+          "categoryName": "PERSONAL",
+          "description": "drive storage",
+          "maxFileSize": null,
+          "extension": "[\"bmp\",\"jpg\",\"jpeg\",\"gif\",\"png\",\"pdf\",\"mp4\",\"mp3\",\"m4a\",\"wav\"]",
+          "allowedType": "[\r\n  \"image/jpeg\",\"image/bmp\",\"image/png\",\"image/gif\",\r\n  \"image/pipeg\",\"image/x-png\",\"application/pdf\",\r\n  \"video/mp4\",\"audio/mpeg\",\"audio/mp4\",\r\n  \"audio/vnd.wave\"\r\n]",
+          "uuid": "ijwdsyh7"
+        }
+      ]
+    },
+    "timestamp": 1764658732734
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/save/inventory-item/for/tentMaster/73313fwi",
+    "method": "POST",
+    "rawPayload": "{\"categoryName\":\"vitamins\",\"categoryUuid\":\"2v6t0rkd\",\"itemName\":\"diclo\",\"itemType\":\"DRUGS\",\"stockingUnit\":\"strip\",\"itemCode\":\"INV567\",\"itemInstruction\":\"\",\"itemSubType\":\"diclo\",\"itemTaxUuid\":[],\"inclusiveTax\":false,\"manufacturerName\":\"zee para\",\"reorderLevel\":10,\"retailPrice\":1,\"stockKeepingUnit\":\"\",\"strength\":10,\"strengthUnit\":\"Gm\",\"isNegativeAllowed\":true,\"listingEnabled\":false,\"docDriveUuid\":null,\"filePath\":null,\"listingPrice\":null,\"description\":null,\"min\":10,\"max\":100,\"looseStocks\":false,\"looseStockUnit\":1,\"looseStockQuantity\":null,\"hsnCode\":\"\",\"sacCode\":\"\"}",
+    "payload": "{\"categoryName\":\"vitamins\",\"categoryUuid\":\"2v6t0rkd\",\"itemName\":\"diclo\",\"itemType\":\"DRUGS\",\"stockingUnit\":\"strip\",\"itemCode\":\"INV567\",\"itemInstruction\":\"\",\"itemSubType\":\"diclo\",\"itemTaxUuid\":[],\"inclusiveTax\":false,\"manufacturerName\":\"zee para\",\"reorderLevel\":10,\"retailPrice\":1,\"stockKeepingUnit\":\"\",\"strength\":10,\"strengthUnit\":\"Gm\",\"isNegativeAllowed\":true,\"listingEnabled\":false,\"docDriveUuid\":null,\"filePath\":null,\"listingPrice\":null,\"description\":null,\"min\":10,\"max\":100,\"looseStocks\":false,\"looseStockUnit\":1,\"looseStockQuantity\":null,\"hsnCode\":\"\",\"sacCode\":\"\"}",
+    "status": 201,
+    "response": {
+      "status": "success",
+      "message": "ITEM_ADDED",
+      "tentUuid": "73313fwi",
+      "data": {
+        "uuid": null
+      }
+    },
+    "timestamp": 1764658743065
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/products/findAll/inventory-items/for/tentMaster/73313fwi?itemType=ALL&stockLevel=ALL&category=ALL&page=0&size=10",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "data": {
+        "totalCount": 18,
+        "items": [
+          {
+            "itemName": "5-zine-d",
+            "itemCode": "INV126",
+            "retailPrice": 5,
+            "itemType": "DRUGS",
+            "totalStock": 600,
+            "availableStock": 600,
+            "expiredStock": 0,
+            "reorderLevel": 10,
+            "itemTax": [
+              {
+                "taxPercent": 10,
+                "taxUuid": "suh7mruv",
+                "taxName": "SGST"
+              }
+            ],
+            "uuid": "ey9ftro7",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "",
+            "categoryName": "Cold",
+            "categoryUuid": "fr3440k3",
+            "strength": 10,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Gm",
+            "itemInstruction": "",
+            "itemSubType": "Analgesic",
+            "stockDtoList": [
+              {
+                "uuid": "e6z6kui0",
+                "expireDate": "2026-03-17",
+                "itemStockQuantity": 280,
+                "itemStockBatch": "INV126",
+                "unitCost": 3,
+                "totalCost": 780,
+                "supplierName": null,
+                "stockLocation": "Raj",
+                "startStockRange": "1/1",
+                "endStockRange": "1/500"
+              },
+              {
+                "uuid": "xhcsfb70",
+                "expireDate": "2026-03-17",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "INV126",
+                "unitCost": 3,
+                "totalCost": 300,
+                "supplierName": null,
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "dz3d8ab5",
+                "expireDate": "2026-03-17",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "INV126",
+                "unitCost": 3,
+                "totalCost": 0,
+                "supplierName": null,
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "3m79uo6x",
+                "expireDate": "2025-12-17",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "B5",
+                "unitCost": 10,
+                "totalCost": 100,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "sqn04tmg",
+                "expireDate": "2026-09-17",
+                "itemStockQuantity": 60,
+                "itemStockBatch": "B5",
+                "unitCost": 10,
+                "totalCost": 600,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "wv1cuu4a",
+                "expireDate": "2025-12-17",
+                "itemStockQuantity": 49,
+                "itemStockBatch": "B3",
+                "unitCost": 4,
+                "totalCost": 200,
+                "supplierName": "vendor",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "ia1fdjvm",
+                "expireDate": "2026-01-01",
+                "itemStockQuantity": 1,
+                "itemStockBatch": "B12",
+                "unitCost": 11,
+                "totalCost": 11,
+                "supplierName": null,
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-17 10:56:43",
+            "min": 10,
+            "max": 1,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "itemName": "action or",
+            "itemCode": "IV165",
+            "retailPrice": 2,
+            "itemType": "DRUGS",
+            "totalStock": 1700,
+            "availableStock": 1700,
+            "expiredStock": 0,
+            "reorderLevel": 0,
+            "itemTax": [],
+            "uuid": "0zk8qikr",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "",
+            "categoryName": "vitamins",
+            "categoryUuid": "2v6t0rkd",
+            "strength": 100,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Gm",
+            "itemInstruction": "",
+            "itemSubType": "action or",
+            "stockDtoList": [
+              {
+                "uuid": "mz7kmsmx",
+                "expireDate": "2025-12-14",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "INV123",
+                "unitCost": 1,
+                "totalCost": 100,
+                "supplierName": "vendor two",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "ulchlers",
+                "expireDate": "2025-12-14",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "INV123",
+                "unitCost": 1,
+                "totalCost": 100,
+                "supplierName": "vendor",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "1r4zwqx2",
+                "expireDate": "2025-12-14",
+                "itemStockQuantity": 90,
+                "itemStockBatch": "INV123",
+                "unitCost": 10,
+                "totalCost": 1000,
+                "supplierName": "vendor",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "jaywmr62",
+                "expireDate": "2026-02-14",
+                "itemStockQuantity": 1000,
+                "itemStockBatch": "INV123",
+                "unitCost": 3,
+                "totalCost": 3000,
+                "supplierName": "vendor",
+                "stockLocation": "Raj",
+                "startStockRange": "1000/1",
+                "endStockRange": "1000/1000"
+              },
+              {
+                "uuid": "ohyvxwo8",
+                "expireDate": "2026-03-14",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "INV123",
+                "unitCost": 10,
+                "totalCost": 100,
+                "supplierName": "vendor three",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "s06t25hg",
+                "expireDate": "2026-01-14",
+                "itemStockQuantity": 2,
+                "itemStockBatch": "INV123",
+                "unitCost": 3,
+                "totalCost": 600,
+                "supplierName": "vendor",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "zgwumtca",
+                "expireDate": "2025-12-17",
+                "itemStockQuantity": 80,
+                "itemStockBatch": "B3",
+                "unitCost": 4,
+                "totalCost": 320,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "8m4p0omy",
+                "expireDate": "2026-02-17",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "B5",
+                "unitCost": 2,
+                "totalCost": 20,
+                "supplierName": "vendor",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "8l6bvqpo",
+                "expireDate": "2026-02-17",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "B5",
+                "unitCost": 2,
+                "totalCost": 0,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "th99pddv",
+                "expireDate": "2026-12-17",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "b$",
+                "unitCost": 10,
+                "totalCost": 100,
+                "supplierName": "vendor three",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "1vd4g87m",
+                "expireDate": "2026-01-25",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "BATCHS0006",
+                "unitCost": 1.2,
+                "totalCost": 120,
+                "supplierName": null,
+                "stockLocation": "Coimbatore",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "mnh4xnv3",
+                "expireDate": "2026-12-01",
+                "itemStockQuantity": 77,
+                "itemStockBatch": "B1234",
+                "unitCost": 1,
+                "totalCost": 77,
+                "supplierName": "vendor two",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "hfumyk4b",
+                "expireDate": "2026-11-01",
+                "itemStockQuantity": 111,
+                "itemStockBatch": "B12345",
+                "unitCost": 100,
+                "totalCost": 11100,
+                "supplierName": null,
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-14 12:55:00",
+            "min": 1,
+            "max": 10000,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "itemName": "apple",
+            "itemCode": "INV132",
+            "retailPrice": 9.090909,
+            "itemType": "FOOD",
+            "totalStock": 51,
+            "availableStock": 51,
+            "expiredStock": 0,
+            "reorderLevel": 10,
+            "itemTax": [
+              {
+                "taxPercent": 10,
+                "taxUuid": "suh7mruv",
+                "taxName": "SGST"
+              }
+            ],
+            "uuid": "t312wmzi",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "788",
+            "categoryName": "food",
+            "categoryUuid": "7fs3pyu6",
+            "strength": 10,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Units",
+            "itemInstruction": "",
+            "itemSubType": "apple",
+            "stockDtoList": [
+              {
+                "uuid": "6itx1wbr",
+                "expireDate": null,
+                "itemStockQuantity": 1,
+                "itemStockBatch": "B5",
+                "unitCost": 10,
+                "totalCost": 10,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "drq4wwxq",
+                "expireDate": "2025-12-17",
+                "itemStockQuantity": 50,
+                "itemStockBatch": "B7",
+                "unitCost": 12,
+                "totalCost": 600,
+                "supplierName": null,
+                "stockLocation": "Hari",
+                "startStockRange": "1/1",
+                "endStockRange": "1/50"
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-17 12:00:53",
+            "min": 10,
+            "max": 100,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": true,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "itemName": "cipla",
+            "itemCode": "INV139",
+            "retailPrice": 12.711864,
+            "itemType": "DRUGS",
+            "totalStock": 20,
+            "availableStock": 20,
+            "expiredStock": 0,
+            "reorderLevel": 10,
+            "itemTax": [
+              {
+                "taxPercent": 18,
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST"
+              }
+            ],
+            "uuid": "hodrfeem",
+            "manufacturerName": "zee para",
+            "stockingUnit": "strip",
+            "stockKeepingUnit": "",
+            "categoryName": "Cold",
+            "categoryUuid": "fr3440k3",
+            "strength": 1,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "% W/W",
+            "itemInstruction": "test",
+            "itemSubType": "cipla",
+            "stockDtoList": [
+              {
+                "uuid": "qqqm8bg3",
+                "expireDate": "2026-12-01",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "B123",
+                "unitCost": 10,
+                "totalCost": 100,
+                "supplierName": null,
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "eoi2tgey",
+                "expireDate": "2026-01-01",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "B12",
+                "unitCost": 1,
+                "totalCost": 10,
+                "supplierName": null,
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-17 12:40:34",
+            "min": 52,
+            "max": 22121,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": true,
+            "hsnCode": "",
+            "sacCode": ""
+          },
+          {
+            "itemName": "diclo",
+            "itemCode": "INV567",
+            "retailPrice": 1,
+            "itemType": "DRUGS",
+            "totalStock": 0,
+            "availableStock": 0,
+            "expiredStock": 0,
+            "reorderLevel": 10,
+            "itemTax": null,
+            "uuid": "gkmlrlz0",
+            "manufacturerName": "zee para",
+            "stockingUnit": "strip",
+            "stockKeepingUnit": "",
+            "categoryName": "vitamins",
+            "categoryUuid": "2v6t0rkd",
+            "strength": 10,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Gm",
+            "itemInstruction": "",
+            "itemSubType": "diclo",
+            "stockDtoList": [],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-12-02 12:29:13",
+            "min": 10,
+            "max": 100,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": ""
+          },
+          {
+            "itemName": "diclo Injection",
+            "itemCode": "IV164",
+            "retailPrice": 9,
+            "itemType": "DRUGS",
+            "totalStock": 111,
+            "availableStock": 111,
+            "expiredStock": 0,
+            "reorderLevel": 0,
+            "itemTax": null,
+            "uuid": "l20qb7q6",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "",
+            "categoryName": "vitamins",
+            "categoryUuid": "2v6t0rkd",
+            "strength": 2,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Gm",
+            "itemInstruction": "",
+            "itemSubType": "diclo Injection",
+            "stockDtoList": [
+              {
+                "uuid": "nrdfhfx8",
+                "expireDate": "2026-01-25",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "BATCHS0004",
+                "unitCost": 1.2,
+                "totalCost": 120,
+                "supplierName": null,
+                "stockLocation": "Coimbatore",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "owl9bdwa",
+                "expireDate": "2026-04-01",
+                "itemStockQuantity": 11,
+                "itemStockBatch": "B123",
+                "unitCost": 1,
+                "totalCost": 11,
+                "supplierName": null,
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-22 11:31:28",
+            "min": null,
+            "max": null,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": ""
+          },
+          {
+            "itemName": "dolo",
+            "itemCode": "IV162",
+            "retailPrice": 5.46875,
+            "itemType": "DRUGS",
+            "totalStock": 10364,
+            "availableStock": 10347,
+            "expiredStock": 0,
+            "reorderLevel": 10,
+            "itemTax": [
+              {
+                "taxPercent": 18,
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST"
+              },
+              {
+                "taxPercent": 10,
+                "taxUuid": "suh7mruv",
+                "taxName": "SGST"
+              }
+            ],
+            "uuid": "1u9l7hg6",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "",
+            "categoryName": "vitamins",
+            "categoryUuid": "2v6t0rkd",
+            "strength": 10,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Gm",
+            "itemInstruction": "",
+            "itemSubType": "insulin",
+            "stockDtoList": [
+              {
+                "uuid": "weaiv8jg",
+                "expireDate": "2027-02-14",
+                "itemStockQuantity": 9984,
+                "itemStockBatch": "INV123",
+                "unitCost": 8,
+                "totalCost": 80000,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "4pqp67u1",
+                "expireDate": "2025-12-14",
+                "itemStockQuantity": 109,
+                "itemStockBatch": "INV123",
+                "unitCost": 110,
+                "totalCost": 12100,
+                "supplierName": "vendor three",
+                "stockLocation": "Raj",
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "yii0twmv",
+                "expireDate": "2026-04-17",
+                "itemStockQuantity": 20,
+                "itemStockBatch": "B3",
+                "unitCost": 6,
+                "totalCost": 120,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "k5p8hrk0",
+                "expireDate": "2026-04-17",
+                "itemStockQuantity": 24,
+                "itemStockBatch": "B5",
+                "unitCost": 3,
+                "totalCost": 72,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "6ipupal3",
+                "expireDate": "2026-02-13",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "INV123",
+                "unitCost": 10,
+                "totalCost": 1000,
+                "supplierName": "gurub",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "wwcrh3az",
+                "expireDate": "2026-02-13",
+                "itemStockQuantity": 10,
+                "itemStockBatch": "INV123",
+                "unitCost": 10,
+                "totalCost": 100,
+                "supplierName": "gurub",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "m7ky833t",
+                "expireDate": "2026-01-25",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "BATCHS0002",
+                "unitCost": 1.2,
+                "totalCost": 120,
+                "supplierName": null,
+                "stockLocation": "Coimbatore",
+                "startStockRange": null,
+                "endStockRange": null
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-14 10:36:19",
+            "min": 10,
+            "max": 1000,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": true,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "itemName": "Nervous Injection",
+            "itemCode": "IV161",
+            "retailPrice": 9,
+            "itemType": "DRUGS",
+            "totalStock": 100,
+            "availableStock": 100,
+            "expiredStock": 0,
+            "reorderLevel": 10,
+            "itemTax": null,
+            "uuid": "skrn37w2",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "",
+            "categoryName": "respirator",
+            "categoryUuid": "tv862n4f",
+            "strength": 10,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Gm",
+            "itemInstruction": "",
+            "itemSubType": "Nervous Injection",
+            "stockDtoList": [
+              {
+                "uuid": "v1nrjul1",
+                "expireDate": "2026-01-25",
+                "itemStockQuantity": 100,
+                "itemStockBatch": "BATCHS0001",
+                "unitCost": 1.2,
+                "totalCost": 120,
+                "supplierName": null,
+                "stockLocation": "Coimbatore",
+                "startStockRange": null,
+                "endStockRange": null
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-22 11:29:19",
+            "min": 1,
+            "max": 100,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": ""
+          },
+          {
+            "itemName": "nose cold",
+            "itemCode": "INV129",
+            "retailPrice": 2,
+            "itemType": "DRUGS",
+            "totalStock": 141,
+            "availableStock": 3,
+            "expiredStock": 0,
+            "reorderLevel": 100,
+            "itemTax": [
+              {
+                "taxPercent": 10,
+                "taxUuid": "suh7mruv",
+                "taxName": "SGST"
+              }
+            ],
+            "uuid": "2eg7d5a4",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "",
+            "categoryName": "Cold",
+            "categoryUuid": "fr3440k3",
+            "strength": 10,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "Gm",
+            "itemInstruction": "",
+            "itemSubType": "anti cold tablets",
+            "stockDtoList": [
+              {
+                "uuid": "k8vap5p0",
+                "expireDate": "2025-12-17",
+                "itemStockQuantity": 0,
+                "itemStockBatch": "B2",
+                "unitCost": 10,
+                "totalCost": 100,
+                "supplierName": "vendor",
+                "stockLocation": "Raj",
+                "startStockRange": "1/1",
+                "endStockRange": "1/10"
+              },
+              {
+                "uuid": "ce4mlo7m",
+                "expireDate": "2026-05-17",
+                "itemStockQuantity": 0,
+                "itemStockBatch": "B3",
+                "unitCost": 4,
+                "totalCost": 80,
+                "supplierName": null,
+                "stockLocation": null,
+                "startStockRange": "1/1",
+                "endStockRange": "1/20"
+              },
+              {
+                "uuid": "ub7umfqk",
+                "expireDate": "2026-05-17",
+                "itemStockQuantity": 3,
+                "itemStockBatch": "B5",
+                "unitCost": 1,
+                "totalCost": 30,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": null,
+                "endStockRange": null
+              },
+              {
+                "uuid": "1n0h4nuu",
+                "expireDate": "2026-05-17",
+                "itemStockQuantity": 0,
+                "itemStockBatch": "B2",
+                "unitCost": 4,
+                "totalCost": 324,
+                "supplierName": "vendor two",
+                "stockLocation": null,
+                "startStockRange": "10/10",
+                "endStockRange": "10/90"
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": false,
+            "createdOn": "2025-11-17 11:16:25",
+            "min": 100,
+            "max": 1000,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "itemName": "nsaid",
+            "itemCode": "INV130",
+            "retailPrice": 4,
+            "itemType": "EQUIPMENTS",
+            "totalStock": 100,
+            "availableStock": 100,
+            "expiredStock": 0,
+            "reorderLevel": 10,
+            "itemTax": [],
+            "uuid": "4bgsi5e4",
+            "manufacturerName": "zee para",
+            "stockingUnit": "one",
+            "stockKeepingUnit": "",
+            "categoryName": "trips",
+            "categoryUuid": "5dxjb6wq",
+            "strength": 0,
+            "itemPromotionalPrice": null,
+            "strengthUnit": "",
+            "itemInstruction": "",
+            "itemSubType": "pain reliever",
+            "stockDtoList": [
+              {
+                "uuid": "skowg8jo",
+                "expireDate": null,
+                "itemStockQuantity": 100,
+                "itemStockBatch": "B5",
+                "unitCost": 120,
+                "totalCost": 12000,
+                "supplierName": "vendor",
+                "stockLocation": null,
+                "startStockRange": "1/1",
+                "endStockRange": "1/100"
+              }
+            ],
+            "isDeleteAvailable": false,
+            "consumeDtoList": null,
+            "isNegativeAllowed": true,
+            "createdOn": "2025-11-17 11:29:10",
+            "min": 10,
+            "max": 1,
+            "looseStocks": false,
+            "looseStockUnit": 1,
+            "looseStockQuantity": null,
+            "listingEnabled": false,
+            "docDriveUuid": null,
+            "originalFileName": null,
+            "originalFilePath": null,
+            "listingPrice": null,
+            "convenienceFee": null,
+            "description": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          }
+        ]
+      },
+      "message": "ITEMS_FETCHED"
+    },
+    "timestamp": 1764658743940
+  }
+]

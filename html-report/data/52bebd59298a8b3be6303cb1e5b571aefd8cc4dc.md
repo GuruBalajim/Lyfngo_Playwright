@@ -1,0 +1,169 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - banner [ref=e8]:
+        - img "Hello, User" [ref=e10]
+      - generic [ref=e11]:
+        - navigation [ref=e12]:
+          - link "icon Dashboards" [ref=e13] [cursor=pointer]:
+            - /url: /dashboard
+            - img "icon" [ref=e15]
+            - generic [ref=e17]: Dashboards
+        - navigation [ref=e18]:
+          - link "icon Dashboard AI" [ref=e19] [cursor=pointer]:
+            - /url: /dashboardai
+            - img "icon" [ref=e21]
+            - generic [ref=e23]: Dashboard AI
+        - navigation [ref=e24]:
+          - link "icon Calendar" [ref=e25] [cursor=pointer]:
+            - /url: /calendar
+            - img "icon" [ref=e27]
+            - generic [ref=e29]: Calendar
+        - navigation [ref=e30]:
+          - link "icon Patients" [ref=e31] [cursor=pointer]:
+            - /url: /clients
+            - img "icon" [ref=e33]
+            - generic [ref=e35]: Patients
+        - navigation [ref=e36]:
+          - link "icon Communication" [ref=e37] [cursor=pointer]:
+            - /url: /communication/whatsapp
+            - img "icon" [ref=e39]
+            - generic [ref=e41]: Communication
+        - navigation [ref=e42]:
+          - link "icon Leads" [active] [ref=e43] [cursor=pointer]:
+            - /url: /leads
+            - img "icon" [ref=e45]
+            - generic [ref=e47]: Leads
+        - navigation [ref=e48]:
+          - link "icon Inventory" [ref=e49] [cursor=pointer]:
+            - /url: /inventory
+            - img "icon" [ref=e51]
+            - generic [ref=e53]: Inventory
+        - navigation [ref=e54]:
+          - link "icon Quicksales" [ref=e55] [cursor=pointer]:
+            - /url: /quicksale
+            - img "icon" [ref=e57]
+            - generic [ref=e59]: Quicksales
+        - navigation [ref=e60]:
+          - link "icon Expenses" [ref=e61] [cursor=pointer]:
+            - /url: /expenses
+            - img "icon" [ref=e63]
+            - generic [ref=e65]: Expenses
+        - navigation [ref=e66]:
+          - link "icon Reports" [ref=e67] [cursor=pointer]:
+            - /url: /report
+            - img "icon" [ref=e69]
+            - generic [ref=e71]: Reports
+        - navigation [ref=e72]:
+          - link "icon Activities" [ref=e73] [cursor=pointer]:
+            - /url: /activities
+            - img "icon" [ref=e75]
+            - generic [ref=e77]: Activities
+        - navigation [ref=e78]:
+          - link "icon Pharmacy" [ref=e79] [cursor=pointer]:
+            - /url: /pharma
+            - img "icon" [ref=e81]
+            - generic [ref=e83]: Pharmacy
+        - navigation [ref=e84]:
+          - link "icon Products" [ref=e85] [cursor=pointer]:
+            - /url: /products
+            - img "icon" [ref=e87]
+            - generic [ref=e89]: Products
+        - navigation [ref=e90]:
+          - link "icon Chatbot" [ref=e91] [cursor=pointer]:
+            - /url: /chats
+            - img "icon" [ref=e93]
+            - generic [ref=e95]: Chatbot
+        - navigation [ref=e96]:
+          - link "icon Microsite" [ref=e97] [cursor=pointer]:
+            - /url: /profile
+            - img "icon" [ref=e99]
+            - generic [ref=e101]: Microsite
+        - navigation [ref=e102]:
+          - link "icon Events" [ref=e103] [cursor=pointer]:
+            - /url: /events
+            - img "icon" [ref=e105]
+            - generic [ref=e107]: Events
+        - navigation [ref=e108]:
+          - link "icon Chat bots" [ref=e109] [cursor=pointer]:
+            - /url: /consult
+            - img "icon" [ref=e111]
+            - generic [ref=e113]: Chat bots
+        - navigation [ref=e114]:
+          - link "icon Attendance" [ref=e115] [cursor=pointer]:
+            - /url: /attendance
+            - img "icon" [ref=e117]
+            - generic [ref=e119]: Attendance
+        - navigation [ref=e120]:
+          - link "icon Settings" [ref=e121] [cursor=pointer]:
+            - /url: /setting
+            - img "icon" [ref=e123]
+            - generic [ref=e125]: Settings
+        - navigation [ref=e126]:
+          - link "icon Feedbacks" [ref=e127] [cursor=pointer]:
+            - /url: /feedback
+            - img "icon" [ref=e129]
+            - generic [ref=e131]: Feedbacks
+        - separator [ref=e132]
+        - generic [ref=e133]:
+          - heading "Powered by" [level=6] [ref=e134]
+          - img "lyfngo" [ref=e135]
+          - img "lyfngo" [ref=e136]
+    - main [ref=e137]:
+      - generic [ref=e140]:
+        - generic [ref=e145]:
+          - combobox "Establishment Name" [ref=e146]: Test_hospital
+          - button "Open" [ref=e148] [cursor=pointer]:
+            - img [ref=e149]
+        - generic [ref=e151]:
+          - generic [ref=e153]:
+            - generic [ref=e157]:
+              - combobox "Advance" [ref=e158]: Mobile No
+              - button "Open" [ref=e160] [cursor=pointer]:
+                - img [ref=e161]
+              - group
+            - generic [ref=e168]:
+              - combobox "Exp - 9000111110" [ref=e169]
+              - button "Open" [ref=e171] [cursor=pointer]:
+                - img [ref=e172]
+              - group
+          - button "Add Patient" [ref=e174] [cursor=pointer]:
+            - img [ref=e175]
+          - button "Add Appointment" [ref=e177] [cursor=pointer]:
+            - img "No drafts found" [ref=e178]
+          - button "More options" [ref=e180] [cursor=pointer]:
+            - img [ref=e181]
+          - button "Settings" [ref=e184] [cursor=pointer]:
+            - img [ref=e185]
+          - button "Notification" [ref=e188] [cursor=pointer]:
+            - generic [ref=e189]:
+              - img [ref=e190]
+              - generic: "0"
+          - separator [ref=e192]
+          - button "Test_hospital Owner T" [ref=e194] [cursor=pointer]:
+            - generic [ref=e195]:
+              - paragraph [ref=e196]: Test_hospital
+              - paragraph [ref=e197]: Owner
+            - generic [ref=e198]: T
+      - generic [ref=e199]:
+        - heading "leads" [level=6] [ref=e203]
+        - generic [ref=e205]:
+          - button "animation" [ref=e206] [cursor=pointer]:
+            - img [ref=e207]
+          - heading "Your flash subscription has expired!!!" [level=5] [ref=e218]
+          - heading "In order to continue using LYFnGO flash you need to purchase a subscription." [level=6] [ref=e219]
+          - heading "To buy one now click \"Buy Now\" or get in touch with our Support Desk at" [level=6] [ref=e220]
+          - heading "support@lyfngo.com or call +91 81100-71300" [level=6] [ref=e221]:
+            - link "support@lyfngo.com" [ref=e223] [cursor=pointer]:
+              - /url: mailto:support@lyfngo.com
+            - text: or call
+            - link "+91 81100-71300" [ref=e225] [cursor=pointer]:
+              - /url: tel:8110071300
+          - generic [ref=e226]:
+            - button "Buy Now" [ref=e227] [cursor=pointer]: Buy Now
+            - button "Delete Account" [ref=e228] [cursor=pointer]: Delete Account
+  - img
+```

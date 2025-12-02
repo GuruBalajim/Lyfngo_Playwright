@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://flash.lyf.yoga/files/communication/customer/getCustomerData/73313fwi?name=7711551584&page=0&size=5",
+    "method": "GET",
+    "rawPayload": null,
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "STATUS_SUCCESS",
+      "message": "suc_customer_list",
+      "tentUuid": null,
+      "data": []
+    },
+    "timestamp": 1764674942765
+  }
+]

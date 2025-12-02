@@ -1,0 +1,667 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e7]:
+      - banner [ref=e8]:
+        - img [ref=e10]
+      - generic [ref=e11]:
+        - navigation [ref=e12]:
+          - link [ref=e13] [cursor=pointer]:
+            - /url: /dashboard
+            - img [ref=e15]
+            - generic [ref=e17]: Dashboards
+        - navigation [ref=e18]:
+          - link [ref=e19] [cursor=pointer]:
+            - /url: /dashboardai
+            - img [ref=e21]
+            - generic [ref=e23]: Dashboard AI
+        - navigation [ref=e24]:
+          - link [ref=e25] [cursor=pointer]:
+            - /url: /calendar
+            - img [ref=e27]
+            - generic [ref=e29]: Calendar
+        - navigation [ref=e30]:
+          - link [ref=e31] [cursor=pointer]:
+            - /url: /clients
+            - img [ref=e33]
+            - generic [ref=e35]: Patients
+        - navigation [ref=e36]:
+          - link [ref=e37] [cursor=pointer]:
+            - /url: /communication/whatsapp
+            - img [ref=e39]
+            - generic [ref=e41]: Communication
+        - navigation [ref=e42]:
+          - link [ref=e43] [cursor=pointer]:
+            - /url: /leads
+            - img [ref=e45]
+            - generic [ref=e47]: Leads
+        - navigation [ref=e48]:
+          - link [ref=e49] [cursor=pointer]:
+            - /url: /inventory
+            - img [ref=e51]
+            - generic [ref=e53]: Inventory
+        - navigation [ref=e54]:
+          - link [ref=e55] [cursor=pointer]:
+            - /url: /quicksale
+            - img [ref=e57]
+            - generic [ref=e59]: Quicksales
+        - navigation [ref=e60]:
+          - link [ref=e61] [cursor=pointer]:
+            - /url: /expenses
+            - img [ref=e63]
+            - generic [ref=e65]: Expenses
+        - navigation [ref=e66]:
+          - link [ref=e67] [cursor=pointer]:
+            - /url: /report
+            - img [ref=e69]
+            - generic [ref=e71]: Reports
+        - navigation [ref=e72]:
+          - link [ref=e73] [cursor=pointer]:
+            - /url: /activities
+            - img [ref=e75]
+            - generic [ref=e77]: Activities
+        - navigation [ref=e78]:
+          - link [ref=e79] [cursor=pointer]:
+            - /url: /pharma
+            - img [ref=e81]
+            - generic [ref=e83]: Pharmacy
+        - navigation [ref=e84]:
+          - link [ref=e85] [cursor=pointer]:
+            - /url: /products
+            - img [ref=e87]
+            - generic [ref=e89]: Products
+        - navigation [ref=e90]:
+          - link [ref=e91] [cursor=pointer]:
+            - /url: /checkin
+            - img [ref=e93]
+            - generic [ref=e95]: Check In
+        - navigation [ref=e96]:
+          - link [ref=e97] [cursor=pointer]:
+            - /url: /chats
+            - img [ref=e99]
+            - generic [ref=e101]: Chatbot
+        - navigation [ref=e102]:
+          - link [ref=e103] [cursor=pointer]:
+            - /url: /profile
+            - img [ref=e105]
+            - generic [ref=e107]: Microsite
+        - navigation [ref=e108]:
+          - link [ref=e109] [cursor=pointer]:
+            - /url: /events
+            - img [ref=e111]
+            - generic [ref=e113]: Events
+        - navigation [ref=e114]:
+          - link [ref=e115] [cursor=pointer]:
+            - /url: /consult
+            - img [ref=e117]
+            - generic [ref=e119]: Chat bots
+        - navigation [ref=e120]:
+          - link [ref=e121] [cursor=pointer]:
+            - /url: /attendance
+            - img [ref=e123]
+            - generic [ref=e125]: Attendance
+        - navigation [ref=e126]:
+          - link [ref=e127] [cursor=pointer]:
+            - /url: /setting
+            - img [ref=e129]
+            - generic [ref=e131]: Settings
+        - navigation [ref=e132]:
+          - link [ref=e133] [cursor=pointer]:
+            - /url: /feedback
+            - img [ref=e135]
+            - generic [ref=e137]: Feedbacks
+        - separator [ref=e138]
+        - generic [ref=e139]:
+          - heading [level=6] [ref=e140]: Powered by
+          - img [ref=e141]
+          - img [ref=e142]
+    - main [ref=e143]:
+      - generic [ref=e146]:
+        - generic [ref=e151]:
+          - combobox [ref=e152]: Hosptial_multicare
+          - button [ref=e154] [cursor=pointer]:
+            - img [ref=e155]
+        - generic [ref=e157]:
+          - generic [ref=e159]:
+            - generic [ref=e163]:
+              - combobox [ref=e164]: Mobile No
+              - button [ref=e166] [cursor=pointer]:
+                - img [ref=e167]
+              - group
+            - generic [ref=e174]:
+              - combobox [ref=e175]
+              - button [ref=e177] [cursor=pointer]:
+                - img [ref=e178]
+              - group
+          - button [ref=e180] [cursor=pointer]:
+            - img [ref=e181]
+          - button [ref=e183] [cursor=pointer]:
+            - img [ref=e184]
+          - button [ref=e186] [cursor=pointer]:
+            - img [ref=e187]
+          - button [ref=e190] [cursor=pointer]:
+            - img [ref=e191]
+          - button [ref=e194] [cursor=pointer]:
+            - img [ref=e196]
+          - separator [ref=e198]
+          - button [ref=e200] [cursor=pointer]:
+            - generic [ref=e201]:
+              - paragraph [ref=e202]: Hari
+              - paragraph [ref=e203]: Owner
+            - generic [ref=e204]: H
+      - generic [ref=e206]:
+        - generic [ref=e208]:
+          - heading [level=6] [ref=e209]: Calendar
+          - group [ref=e210]:
+            - button [ref=e211] [cursor=pointer]: Day
+            - button [ref=e212] [cursor=pointer]: Week
+            - button [ref=e213] [cursor=pointer]: Month
+            - button [ref=e214] [cursor=pointer]: Specialist
+          - generic [ref=e215]:
+            - button [ref=e217] [cursor=pointer]: Today
+            - generic [ref=e220]:
+              - button [ref=e221] [cursor=pointer]:
+                - generic [ref=e222]: chevron_left
+              - paragraph [ref=e223] [cursor=pointer]: December 2, 2025
+              - button [ref=e224] [cursor=pointer]:
+                - generic [ref=e225]: chevron_right
+            - generic [ref=e226]:
+              - button [ref=e229] [cursor=pointer]:
+                - img [ref=e230]
+              - button [ref=e233] [cursor=pointer]:
+                - img [ref=e234]
+        - generic [ref=e237]:
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - generic [ref=e241]:
+                - generic [ref=e242]: Select specialist
+                - generic [ref=e243]:
+                  - combobox [ref=e244]: All Specialist
+                  - button [ref=e246] [cursor=pointer]:
+                    - img [ref=e247]
+                  - group:
+                    - generic: Select specialist
+              - generic [ref=e250]:
+                - generic: Tags
+                - generic [ref=e251]:
+                  - combobox [ref=e252]
+                  - button [ref=e254] [cursor=pointer]:
+                    - img [ref=e255]
+                  - group:
+                    - generic: Tags
+            - generic [ref=e257]:
+              - button [ref=e258] [cursor=pointer]:
+                - img [ref=e259]
+              - button [ref=e261] [cursor=pointer]:
+                - img [ref=e262]
+              - button [ref=e264] [cursor=pointer]:
+                - img [ref=e265]
+                - text: Add Appointment
+          - generic [ref=e267]:
+            - grid [ref=e274]:
+              - rowgroup [ref=e275]:
+                - row [ref=e280]:
+                  - columnheader [ref=e281]:
+                    - generic [ref=e283]: Tuesday
+              - rowgroup [ref=e284]:
+                - row [ref=e290]:
+                  - generic [ref=e292]: all-day
+                  - gridcell [ref=e293]:
+                    - generic [ref=e295]:
+                      - generic [ref=e299] [cursor=pointer]:
+                        - paragraph:
+                          - img
+                          - generic:
+                            - text: Block for leave
+                            - generic: "- Prabhu"
+                      - generic [ref=e303] [cursor=pointer]:
+                        - paragraph:
+                          - img
+                          - generic:
+                            - text: Block for leave
+                            - generic: "- Prabhu"
+                - generic [ref=e307]:
+                  - table [ref=e309]:
+                    - rowgroup [ref=e312]:
+                      - row [ref=e313]:
+                        - cell [ref=e314]:
+                          - generic [ref=e316]: 12am
+                        - cell [ref=e317]
+                      - row [ref=e318]:
+                        - cell [ref=e319]
+                        - cell [ref=e320]
+                      - row [ref=e321]:
+                        - cell [ref=e322]:
+                          - generic [ref=e324]: 12:30am
+                        - cell [ref=e325]
+                      - row [ref=e326]:
+                        - cell [ref=e327]
+                        - cell [ref=e328]
+                      - row [ref=e329]:
+                        - cell [ref=e330]:
+                          - generic [ref=e332]: 1am
+                        - cell [ref=e333]
+                      - row [ref=e334]:
+                        - cell [ref=e335]
+                        - cell [ref=e336]
+                      - row [ref=e337]:
+                        - cell [ref=e338]:
+                          - generic [ref=e340]: 1:30am
+                        - cell [ref=e341]
+                      - row [ref=e342]:
+                        - cell [ref=e343]
+                        - cell [ref=e344]
+                      - row [ref=e345]:
+                        - cell [ref=e346]:
+                          - generic [ref=e348]: 2am
+                        - cell [ref=e349]
+                      - row [ref=e350]:
+                        - cell [ref=e351]
+                        - cell [ref=e352]
+                      - row [ref=e353]:
+                        - cell [ref=e354]:
+                          - generic [ref=e356]: 2:30am
+                        - cell [ref=e357]
+                      - row [ref=e358]:
+                        - cell [ref=e359]
+                        - cell [ref=e360]
+                      - row [ref=e361]:
+                        - cell [ref=e362]:
+                          - generic [ref=e364]: 3am
+                        - cell [ref=e365]
+                      - row [ref=e366]:
+                        - cell [ref=e367]
+                        - cell [ref=e368]
+                      - row [ref=e369]:
+                        - cell [ref=e370]:
+                          - generic [ref=e372]: 3:30am
+                        - cell [ref=e373]
+                      - row [ref=e374]:
+                        - cell [ref=e375]
+                        - cell [ref=e376]
+                      - row [ref=e377]:
+                        - cell [ref=e378]:
+                          - generic [ref=e380]: 4am
+                        - cell [ref=e381]
+                      - row [ref=e382]:
+                        - cell [ref=e383]
+                        - cell [ref=e384]
+                      - row [ref=e385]:
+                        - cell [ref=e386]:
+                          - generic [ref=e388]: 4:30am
+                        - cell [ref=e389]
+                      - row [ref=e390]:
+                        - cell [ref=e391]
+                        - cell [ref=e392]
+                      - row [ref=e393]:
+                        - cell [ref=e394]:
+                          - generic [ref=e396]: 5am
+                        - cell [ref=e397]
+                      - row [ref=e398]:
+                        - cell [ref=e399]
+                        - cell [ref=e400]
+                      - row [ref=e401]:
+                        - cell [ref=e402]:
+                          - generic [ref=e404]: 5:30am
+                        - cell [ref=e405]
+                      - row [ref=e406]:
+                        - cell [ref=e407]
+                        - cell [ref=e408]
+                      - row [ref=e409]:
+                        - cell [ref=e410]:
+                          - generic [ref=e412]: 6am
+                        - cell [ref=e413]
+                      - row [ref=e414]:
+                        - cell [ref=e415]
+                        - cell [ref=e416]
+                      - row [ref=e417]:
+                        - cell [ref=e418]:
+                          - generic [ref=e420]: 6:30am
+                        - cell [ref=e421]
+                      - row [ref=e422]:
+                        - cell [ref=e423]
+                        - cell [ref=e424]
+                      - row [ref=e425]:
+                        - cell [ref=e426]:
+                          - generic [ref=e428]: 7am
+                        - cell [ref=e429]
+                      - row [ref=e430]:
+                        - cell [ref=e431]
+                        - cell [ref=e432]
+                      - row [ref=e433]:
+                        - cell [ref=e434]:
+                          - generic [ref=e436]: 7:30am
+                        - cell [ref=e437]
+                      - row [ref=e438]:
+                        - cell [ref=e439]
+                        - cell [ref=e440]
+                      - row [ref=e441]:
+                        - cell [ref=e442]:
+                          - generic [ref=e444]: 8am
+                        - cell [ref=e445]
+                      - row [ref=e446]:
+                        - cell [ref=e447]
+                        - cell [ref=e448]
+                      - row [ref=e449]:
+                        - cell [ref=e450]:
+                          - generic [ref=e452]: 8:30am
+                        - cell [ref=e453]
+                      - row [ref=e454]:
+                        - cell [ref=e455]
+                        - cell [ref=e456]
+                      - row [ref=e457]:
+                        - cell [ref=e458]:
+                          - generic [ref=e460]: 9am
+                        - cell [ref=e461]
+                      - row [ref=e462]:
+                        - cell [ref=e463]
+                        - cell [ref=e464]
+                      - row [ref=e465]:
+                        - cell [ref=e466]:
+                          - generic [ref=e468]: 9:30am
+                        - cell [ref=e469]
+                      - row [ref=e470]:
+                        - cell [ref=e471]
+                        - cell [ref=e472]
+                      - row [ref=e473]:
+                        - cell [ref=e474]:
+                          - generic [ref=e476]: 10am
+                        - cell [ref=e477]
+                      - row [ref=e478]:
+                        - cell [ref=e479]
+                        - cell [ref=e480]
+                      - row [ref=e481]:
+                        - cell [ref=e482]:
+                          - generic [ref=e484]: 10:30am
+                        - cell [ref=e485]
+                      - row [ref=e486]:
+                        - cell [ref=e487]
+                        - cell [ref=e488]
+                      - row [ref=e489]:
+                        - cell [ref=e490]:
+                          - generic [ref=e492]: 11am
+                        - cell [ref=e493]
+                      - row [ref=e494]:
+                        - cell [ref=e495]
+                        - cell [ref=e496]
+                      - row [ref=e497]:
+                        - cell [ref=e498]:
+                          - generic [ref=e500]: 11:30am
+                        - cell [ref=e501]
+                      - row [ref=e502]:
+                        - cell [ref=e503]
+                        - cell [ref=e504]
+                      - row [ref=e505]:
+                        - cell [ref=e506]:
+                          - generic [ref=e508]: 12pm
+                        - cell [ref=e509]
+                      - row [ref=e510]:
+                        - cell [ref=e511]
+                        - cell [ref=e512]
+                      - row [ref=e513]:
+                        - cell [ref=e514]:
+                          - generic [ref=e516]: 12:30pm
+                        - cell [ref=e517]
+                      - row [ref=e518]:
+                        - cell [ref=e519]
+                        - cell [ref=e520]
+                      - row [ref=e521]:
+                        - cell [ref=e522]:
+                          - generic [ref=e524]: 1pm
+                        - cell [ref=e525]
+                      - row [ref=e526]:
+                        - cell [ref=e527]
+                        - cell [ref=e528]
+                      - row [ref=e529]:
+                        - cell [ref=e530]:
+                          - generic [ref=e532]: 1:30pm
+                        - cell [ref=e533]
+                      - row [ref=e534]:
+                        - cell [ref=e535]
+                        - cell [ref=e536]
+                      - row [ref=e537]:
+                        - cell [ref=e538]:
+                          - generic [ref=e540]: 2pm
+                        - cell [ref=e541]
+                      - row [ref=e542]:
+                        - cell [ref=e543]
+                        - cell [ref=e544]
+                      - row [ref=e545]:
+                        - cell [ref=e546]:
+                          - generic [ref=e548]: 2:30pm
+                        - cell [ref=e549]
+                      - row [ref=e550]:
+                        - cell [ref=e551]
+                        - cell [ref=e552]
+                      - row [ref=e553]:
+                        - cell [ref=e554]:
+                          - generic [ref=e556]: 3pm
+                        - cell [ref=e557]
+                      - row [ref=e558]:
+                        - cell [ref=e559]
+                        - cell [ref=e560]
+                      - row [ref=e561]:
+                        - cell [ref=e562]:
+                          - generic [ref=e564]: 3:30pm
+                        - cell [ref=e565]
+                      - row [ref=e566]:
+                        - cell [ref=e567]
+                        - cell [ref=e568]
+                      - row [ref=e569]:
+                        - cell [ref=e570]:
+                          - generic [ref=e572]: 4pm
+                        - cell [ref=e573]
+                      - row [ref=e574]:
+                        - cell [ref=e575]
+                        - cell [ref=e576]
+                      - row [ref=e577]:
+                        - cell [ref=e578]:
+                          - generic [ref=e580]: 4:30pm
+                        - cell [ref=e581]
+                      - row [ref=e582]:
+                        - cell [ref=e583]
+                        - cell [ref=e584]
+                      - row [ref=e585]:
+                        - cell [ref=e586]:
+                          - generic [ref=e588]: 5pm
+                        - cell [ref=e589]
+                      - row [ref=e590]:
+                        - cell [ref=e591]
+                        - cell [ref=e592]
+                      - row [ref=e593]:
+                        - cell [ref=e594]:
+                          - generic [ref=e596]: 5:30pm
+                        - cell [ref=e597]
+                      - row [ref=e598]:
+                        - cell [ref=e599]
+                        - cell [ref=e600]
+                      - row [ref=e601]:
+                        - cell [ref=e602]:
+                          - generic [ref=e604]: 6pm
+                        - cell [ref=e605]
+                      - row [ref=e606]:
+                        - cell [ref=e607]
+                        - cell [ref=e608]
+                      - row [ref=e609]:
+                        - cell [ref=e610]:
+                          - generic [ref=e612]: 6:30pm
+                        - cell [ref=e613]
+                      - row [ref=e614]:
+                        - cell [ref=e615]
+                        - cell [ref=e616]
+                      - row [ref=e617]:
+                        - cell [ref=e618]:
+                          - generic [ref=e620]: 7pm
+                        - cell [ref=e621]
+                      - row [ref=e622]:
+                        - cell [ref=e623]
+                        - cell [ref=e624]
+                      - row [ref=e625]:
+                        - cell [ref=e626]:
+                          - generic [ref=e628]: 7:30pm
+                        - cell [ref=e629]
+                      - row [ref=e630]:
+                        - cell [ref=e631]
+                        - cell [ref=e632]
+                      - row [ref=e633]:
+                        - cell [ref=e634]:
+                          - generic [ref=e636]: 8pm
+                        - cell [ref=e637]
+                      - row [ref=e638]:
+                        - cell [ref=e639]
+                        - cell [ref=e640]
+                      - row [ref=e641]:
+                        - cell [ref=e642]:
+                          - generic [ref=e644]: 8:30pm
+                        - cell [ref=e645]
+                      - row [ref=e646]:
+                        - cell [ref=e647]
+                        - cell [ref=e648]
+                      - row [ref=e649]:
+                        - cell [ref=e650]:
+                          - generic [ref=e652]: 9pm
+                        - cell [ref=e653]
+                      - row [ref=e654]:
+                        - cell [ref=e655]
+                        - cell [ref=e656]
+                      - row [ref=e657]:
+                        - cell [ref=e658]:
+                          - generic [ref=e660]: 9:30pm
+                        - cell [ref=e661]
+                      - row [ref=e662]:
+                        - cell [ref=e663]
+                        - cell [ref=e664]
+                      - row [ref=e665]:
+                        - cell [ref=e666]:
+                          - generic [ref=e668]: 10pm
+                        - cell [ref=e669]
+                      - row [ref=e670]:
+                        - cell [ref=e671]
+                        - cell [ref=e672]
+                      - row [ref=e673]:
+                        - cell [ref=e674]:
+                          - generic [ref=e676]: 10:30pm
+                        - cell [ref=e677]
+                      - row [ref=e678]:
+                        - cell [ref=e679]
+                        - cell [ref=e680]
+                      - row [ref=e681]:
+                        - cell [ref=e682]:
+                          - generic [ref=e684]: 11pm
+                        - cell [ref=e685]
+                      - row [ref=e686]:
+                        - cell [ref=e687]
+                        - cell [ref=e688]
+                      - row [ref=e689]:
+                        - cell [ref=e690]:
+                          - generic [ref=e692]: 11:30pm
+                        - cell [ref=e693]
+                      - row [ref=e694]:
+                        - cell [ref=e695]
+                        - cell [ref=e696]
+                  - row [ref=e700]:
+                    - gridcell [ref=e703]:
+                      - generic [ref=e704]:
+                        - generic [ref=e708] [cursor=pointer]:
+                          - paragraph:
+                            - generic:
+                              - generic:
+                                - generic: 12:00 AM
+                                - generic: Gow
+                        - generic [ref=e712] [cursor=pointer]:
+                          - paragraph:
+                            - generic:
+                              - generic:
+                                - generic: 01:15 AM
+                                - generic: Gow
+                        - generic [ref=e716] [cursor=pointer]:
+                          - paragraph:
+                            - generic:
+                              - generic:
+                                - generic: 04:38 PM
+                                - generic: Guru
+            - generic [ref=e719]:
+              - generic [ref=e723]:
+                - combobox [ref=e724]: All type
+                - button [ref=e726] [cursor=pointer]:
+                  - img [ref=e727]
+                - group
+              - generic [ref=e729]:
+                - generic [ref=e730] [cursor=pointer]:
+                  - heading [level=6] [ref=e731]: Total
+                  - heading [level=6] [ref=e732]: "3"
+                - generic [ref=e733] [cursor=pointer]:
+                  - heading [level=6] [ref=e734]: Queued
+                  - heading [level=6] [ref=e735]: "1"
+                - generic [ref=e736] [cursor=pointer]:
+                  - heading [level=6] [ref=e737]: Waiting
+                  - heading [level=6] [ref=e738]: "0"
+                - generic [ref=e739] [cursor=pointer]:
+                  - heading [level=6] [ref=e740]: Engaged
+                  - heading [level=6] [ref=e741]: "0"
+                - generic [ref=e742] [cursor=pointer]:
+                  - heading [level=6] [ref=e743]: Completed
+                  - heading [level=6] [ref=e744]: "0"
+                - generic [ref=e745] [cursor=pointer]:
+                  - heading [level=6] [ref=e746]: Missed
+                  - heading [level=6] [ref=e747]: "2"
+              - generic [ref=e749]:
+                - generic [ref=e751] [cursor=pointer]:
+                  - generic [ref=e753]:
+                    - img [ref=e755]
+                    - separator [ref=e757]
+                  - generic [ref=e758]:
+                    - generic [ref=e760]:
+                      - text: Gow
+                      - paragraph [ref=e761]:
+                        - img [ref=e762]
+                    - generic [ref=e764]:
+                      - paragraph [ref=e765]
+                      - text: Today, 12:00 AM
+                - generic [ref=e767] [cursor=pointer]:
+                  - generic [ref=e769]:
+                    - img [ref=e771]
+                    - separator [ref=e772]
+                  - generic [ref=e773]:
+                    - generic [ref=e774]: Block Calendar for - Block for leave
+                    - generic [ref=e775]: Tuesday, 12:00 AM
+                  - button [ref=e777]:
+                    - img [ref=e778]
+                - generic [ref=e781] [cursor=pointer]:
+                  - generic [ref=e783]:
+                    - img [ref=e785]
+                    - separator [ref=e786]
+                  - generic [ref=e787]:
+                    - generic [ref=e788]: Block Calendar for - Block for leave
+                    - generic [ref=e789]: Tuesday, 12:00 AM
+                  - button [ref=e791]:
+                    - img [ref=e792]
+                - generic [ref=e795] [cursor=pointer]:
+                  - generic [ref=e797]:
+                    - img [ref=e799]
+                    - separator [ref=e801]
+                  - generic [ref=e802]:
+                    - generic [ref=e804]:
+                      - text: Gow
+                      - paragraph [ref=e805]:
+                        - img [ref=e806]
+                    - generic [ref=e808]:
+                      - paragraph [ref=e809]
+                      - text: Today, 01:15 AM
+                - generic [ref=e811] [cursor=pointer]:
+                  - generic [ref=e813]:
+                    - img [ref=e815]
+                    - separator [ref=e817]
+                  - generic [ref=e818]:
+                    - generic [ref=e820]:
+                      - text: Guru
+                      - paragraph [ref=e821]:
+                        - img [ref=e822]
+                    - generic [ref=e824]:
+                      - paragraph [ref=e825]
+                      - text: Today, 04:38 PM
+  - menu [ref=e828]:
+    - menuitem "Delete" [active] [ref=e829] [cursor=pointer]: Delete
+```

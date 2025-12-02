@@ -1,0 +1,366 @@
+[
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/getPracticeList/gv6yd5oq",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "CMjp2Xf65EcVr5zfhoCiFX+kUc22pPfDjsnO+7XAqu44R+lhzUeC5cZvuOHJycLld/3cU9XqEAidKO14jQ/HnfTyeZOY0Bo3X1lWxJZD8XPYHWu9rJYQJxaLXwP9dfH/QhShBuEgJUQiGy6Jww4ueSVV/9m+rQRabIaK7zjSCBiEVoI2IP76MTNTCWxr+tjaW7zBdE+MrHcetKxLmwYg9SF8RseVgu39pFgvDIMwLF7H8JEr0dp7fh+u0SQ6AbNM1pMPuu47WdGe+nIg2TXD9cUchSTMSIKgLZzA6e4m1Ah6JNf/Z/aH1jh6L/oZlxMdv3qGo1DsQE7LuNwfWw17cCyF0Wvt/zizWizYLfW2JpkXntZBkOO7/mWykSKSUX5/I41Dp1YBLJG8z9dIOGt0zLN/JeYX5DYaokXGP/XOZgF8hF3u28/1C4vE9/HXLqU5pn7WUce3Lh8Wyrmd0VhcCy/On88Zmf/rKxP9ZaNQ7HpkmW1uKLyDmdeB2uHoSBa81T4fdpiAskz9Uz+dvspNkzNkEMHh53m9ljCbuEZgcVCcJhPnE67h9DM/5xwsMoXiuCTpIlAezJak5P84orRVkQ42ZkAXKGCCc7aYmGt542w+nY/ChAzaMJoJ+M7IUT437O93nO4N8IuzWF+eIWrplxYUAY1hPqf/d76t9LteZz6SBGZEgb5Ce//b4klcvz+JBHycGikboREjIpOKutxBTj2+7Oc5Px0q1JI/diP1+HN/jcBDtfPlhRU4IbuiJvyvPGfHOLclIAlFpgzZHnQrnk33BUArXLP2fJHs3C/Oqpks3NwcqGA0bqD0olP3s4LYdhBwL4rXpEVCpc+zb0eKr0LGOcDU2M2UZ0SKgYiXs2lJkWbNdFhf13vJ5TcbG+iK+fmFFgOEwtqj7dLjjMTbKKyGapiWcBhOhbQk0H3JrWSjm8ZaE8ngdmn8Dd0QNEfo+CDVhCB2B8DUI0mXsNUH5he0wf0KLVSMIsPXO120fTP5EjMj1Y02eHeSORBt0t+6CoI283ZiBYNn9+iSzQP+Y+nPBA1YTI5LbTQdg3CvAtvn4BSr5MtU+/+htQg1mcqEWjxGFPTgIJQedhlqoet+W7HL85wKl7fw16Tk910AAv3XJ/3l1J7vLouauHrAJ8TGZXNo29jqlgRESfQVeNLyazNt1XZPMt/78u1hW9GgY97qRL+bK8WeZ07lymKFAPLzN+4pDq1ET9A96Dddky51JhqTzN6NpSqyaJS/vwFeavExyh9IqQeW7Y39vmjh1LsD8srfC66nDTJJkhMVPo/D9kMDuBi11FUoQaOiAokt0TPrMO8F2uzx8EObEVTBy+Fm7DeBjw+EA3qU1KevQFPOhZGGEJQkgoLHE5tMcPxLGRz7ecl2UWM7DwikMLhMQBCQfZD13Vk57sbIvTODOGD9y6gfQ7BjwslI9RBSLfb14ZoERAT/wzm33wkh1Yob76OJn+O4INlzu/44T1w6wSBwqifVA5i3B8vA8jO1thHI+r+4mPuW/MFtWCosi281ewPv5tf0kCBxvW7McB6WusbyrdR+XlJf1xch/dyJi8Uyzi2vcKRjQorD0XEtELtNiaCjyVSo5YT8xzJNRDvocH1jeHbdn1JpGTT7K7AbjSuV0n+0iNnhvRYL5FFphAhi+YoPAyB504ixrr6UKIFpqPszoHAzRjsJo+cuCiLf0L6RNENY8gHgTJRoF/6xv1fxhMvCfk0J/S87c8qMQmwe7HJVqRtrBbakFHOxmVU0IYladoSqsDQh7+X2uaZuXdMkBV6jVVlKfRsUnfg+cvxmEHQAg6wuzChm7X8nJ0gHiORCQPKromOCAdw3zeKyW/0oGCDImvmew5LKYh1U01AZgVn7SotBRes54AZ6p4zo1ezlU4VC2P3tb2SKMmle4AD9rz4siJD91u47sTuJZZqwQpSstvCf+i1N6n1TqioORYG27yD8nE5+frizj/yWYs4KefdlwLwJhAXN0X1N0ZZcEVhJuf8gSsn4Hr5EOZSt+3i3Ee2AfeZ7FAuq8DUBoo0vpZT5fawkXM6Az3W+Q/pivg+Pxd+rB9+u4xbhrPv58YMI05oVsAAFezoONxR8rAj7XZaK9aTqgRjT9sIyt4DmG0XC/mm7DzFv7KfJka/GoyrfJJ18dmioW4WKgasdDO+JXPLDY4h5HGEBDwqZwu88WGAe2qXkYOa9HKIR6aUAzz7STxCIkv+jf6f6Bg68+HhnKTeFC0/+dmLwVch2X577U2wRIbWrcKj6sJEqLSiHUnA9p7krvNEbev0l/cqGpoHLwDnRStG9s6qx9Wrj0vRPRyp8Z/wyUfni2OmxTl4OECTQ2EwZA1sINGwvGBUsacax95jtzCbLWr0oJB55/dcccHO/Gb7KMN69K47/wICAQhrgUP2yu4G9M+mqyJTNrdE571H6MjHRj0Jfkz+b1J1NxN/1uFsIYcOsOTJ64Zpvhxvndu+NAb45Xy/CKpqPw1FqrXUigsPk8ib6ej0SNGhPlivg2KJv6Fs2MFeMcISCh34AALRakt1nhM0h4fYe4u1otE7oKB2OoeXx1Z2maAvh3MaQzJtzQ5nbTiuQDtYgqM1GTsiVnxDcjODY4jJsUjVBYOqNObs2IWORUg1wB7OjkwMObwU90YHtAiBkCTWpkVBzOdAVOGlk7S55Mqk7Biqke4vlM2WVLsDBxAIDp3cgwMrSNgN7fses28k3vICUTTXPY9u3yqzj/JPWYazzQ4M+Wv1KJyGPGk78UjAsm31RcHr25AG91MO4Ljay/mO3crQ0jrvIKqFe2QrjtSor5NTMh1J2gxUogJwLdri6LZwOy19b5WXx78suZy93b6FFsVIF1r4d2Ywb62gbMTWpmoz4JP4LarOxdacBpbjz0ve2ZfKoXNeIK3IyrcjpKKt47B7+dEh6TOImi7tg6mmWToKbRje0WBZEv5vb9zU4U8WBjd1EA7jF5g7J2duTExMyEdoxqZlne5DZ9XUnH8NwVGiKAP2a4MCMtNKaYbtyB7x2MY7cK2UkbDYqWSDIi2RbE2YgNJgjhQaNKLJcpSae6SXf3+bnbNC2B7RTs8H0nAXtYJdcXM9fZp4aB8a9acdbQWLzL9y3YMI7GXgjUyipP74DRocGHFbFOJWrNrkrKiJGNtkA0VsEWT04UQ3XQ76Pn7iEkPNIpFwuyZ6d5OiOqC/NIYqRjIXq15INSIgK7m4T5DZEBNHjrjFehGbJnu5v3c4w13sr6kWmdt96cM9QnUT6YlYL6w45GfRIzS4nGh5TyHM5jQg7IT5Vl/nqfV33WaXG7vypiESt6KqKvF2bUZOxq80+MtpAt9OML7HLA/okshV81fKZj1tZyPWsiOB4cWjlzWlA9RS8qBCLgFir5SP+24BiAnUnwMMUmIn3PPOF4LsnIFLhdr1SPpXrxTSYrrQDGFNU6q0kfwp+WzrN/41KcA1cUWwfRPygzcl0cNB0g+oo5QXoFZlRDH4pnWuyXDTw/FICAEjc0Q8mGs89q8+AZ+mwQz3G2ep2I4iyifhNtsYNpceum6SLaLo9spX0jO9olL9xE9DBZeVd8/yHRRqS9eBnGksOJRDo7lWpnNw/u3BUwj+6QlhXrTczJA6/v+v2w+Jrs8PzwqmGnRoVfwAX6dLXNQOhos7RBW3zOSozfDcxt1n2QZphywD6kuplVD9ECRKPVViExjnIsFDfUYlmFZPSmeR0Scyl8VTtX/QswdWyRS7hDi3KvlJBN0VprNteC7VydK/Y5FW+4efKUZ0VN7PpE+lEqctz75/X+Vn+CFACGtEX3zb0+NOdD78bUfcwPsmn4s5xhwCXlelgy0XKxOBm4rlr+6JvsyIWM0CaUFmXaLNWkD1mRQIMn0gzEWbWkZ7GaUVTkI1cicMbMH4a5Pb9AmGe6jZXB/YJCUACerIirbKpRoo9CPjgkxPTxP1k5kpYVl2yXNEDiqVaTS5JFBsftAMuFswgfmEp4li+PhhLthSmfL9rBTz3YzDV11H83Lmiol0cqugR2pzYCFYYO9pYjTjpohBJbikV1JhJd47Yeh0v20wC2MXXtp9QWGf6HRl5HaDDwkDdktRHe37PdLnstfmpXr6I4FQpXHjnF21VakHoqQJZVIbte8vjHxYYxNyqHDZvwi5FsESQB0CZQH9qg8m5ETKnfOTabztcWie3wIFZ4kfXJ0ks0KV5s8Tko3+NRUzBmmX5jDvuIw42p/lUHW1HXr7U/SqNYP2vnkKfZP/3INVKE8Ek32p8rql1kI0mzkkzfO0mLAERV3YcLXsfrc9X5yeF0ABdITan+ehQ9h1pPPuJQSYcdLh6HAX5DA+awaGiG7xAAxiySJrT3qMN//yuUi2KoJBuDmT0yaxSOo7LBts8GXm8r79h7mo5cTbmPDLE9IsJFDhHI+13fvaIuDhyyxi5is9lws45gZDTuGixEMYlen1T6c65Ek8RT0pPK6hvWZxRk6hJTC+5fJHYgKb5xRNl9L7Tq8TSi24pYpBny5lw1AHGijwOA6gwNAKBCo94cJzOM/RORXkpwZksKeUahG4zOJ1Iy5m+jt2SWLOinugPWY6pIwxVcCdVZF+uJLqy0PqlozdCFbJd8RPg/j8/wnYNsemrPdNUx4AingVTskQOVmOBAMF9xigKd4ThM8lYlbwlUir2/AbFDi9BUuHuXylDx4CLDT6WE/3pYgsLEiYWvlGGVf7V4p7SZGdq5dYUhzJhm7vIfR8XQmtvkZ4TUDHTB02JGrzKLyvUpKcLW6rKjBVdL5CKeGn07eLwEBfQensbmpzxMn+TPhWJQ5Isgx6XdCksL3PcLKtEVa5Bzzvbj25nML9FfH7CJ4gkmm8Z+O+FTgIVfwJfRMNBim4jUAJGLV88g/4WU+gk0jTuFGGyc3aTEviCskOXa/AO/hbPUrOrmU5Xn5s2dD0c3QkpB01QZEJn1gDf7yPruZ7rxrPWKySHVZPTxt6wHBSzcpOQBSNnmV0KAY8xtfywAnULKmlFlwSTFIYo0gvEVZXEWP5ymaR7gj8iKEs0+7AkqAnrO7mKr91xLs09GDO8Uf1+qFORqClOzOiIZOIQIZzJ1uzZMd7jOxHs6j15tptF4PTQBYvOC0JMDP9bleGTsCCRhJh8U8TboGaqNcvmmK09aIbNjcJUaORJVGCssA1z58Uxh2JP+aszCGPTTJI/Y0GF8zHwHLzNzh3wlkT2jVMw21Y3S8ktRKpg71dpppPhXeWeIuBqTYDF+nEejlb+EKYiIoYcmDkrd6ch1T1Quw==",
+    "timestamp": 1764651886672
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/saveUserLoginTime/i3v4rfgb",
+    "method": "POST",
+    "payload": {},
+    "status": 200,
+    "response": {
+      "status": "success",
+      "message": "suc_tentUserUpdated",
+      "tentUuid": "73313fwi",
+      "data": "i3v4rfgb"
+    },
+    "timestamp": 1764651889993
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/customer/getMasterTags/73313fwi",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "STATUS_SUCCESS",
+      "message": "suc_fetched_master_tags",
+      "tentUuid": null,
+      "data": []
+    },
+    "timestamp": 1764651890643
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/getTenant/i3v4rfgb",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "JNwk43ziz3jUxbwojSZIKnvaIA4DCzkcTBSm+kX5mEroibJVOTrvjW4IIe/wktJ7D7DV6Evd+MqUcupXTmJ+71hYuxeHqVtqDAHfceY4sgPYGzpWB9SpO8dH4Ddqk0s+RyTmljA8/Ki+oM+3uyu2Kj57NANffGxLOHjxaFrv66SCyC6s8JA05IJa84cDay6eJ3D5I98abVQBfDeI4jtuCcrK5lhB6jgGHhO9mQ3CNsKizzA9Mb6BPdJqLjD6xqhsw6kkPqhOr8OiQGMMygvz3xiNQcDFY99NYW50Hs5PyL4wVKOR2oXP0Ueqt9whifoGgPJ8hf+hEe2VZ8CYglS/5vW2GIGDKSYErpbmnCW2U4HGSRGDgjY0YQsRUDwHgcVm0OZJhId5u92t2RdcqT+3L9/wy7s6LFK9ZnTIy4cTAkaziFp0TOeuLfakH4TvFHtN0DUqZT0z1pQjCtPASb/a6biWo4YL/myRRc717hHAnBDfC/lf6fMRudce2b8fM5ORrBGQaHgBSywpHNyrYVjFj7yN29YgA7BmkZBkSMdnW2RjP1uu3nu/DBU7DHxPmNXBe0JZpT3DSy8az6I8E4Di7YpJyWxDIlqogtWasKOxJK0EoqY+D6liqFqMvyK0qDMAXwzkeUAc58rVXvNb7APy7VjKJoI3+LqlJ3F8GCeyAHYzaQ7RDmVxWMtf+LDy8n9CFHFEwZghrQ2OStm1Equ0Wa2GccsKq+8xQWk13b/6gP7+HQF4p4mWycVc3VIn8P1Sy+cx/mu7h4eJO1mjJrnP0cbF4VwfrUEdjzJJd6cR3cSM84MN3/MklxLmUW6M7VGEHdymU81jGTg2JpivVfkGpRpgEqUG68VvOrubG6NrdZHOpcaDQbququlhvHwgrqwziDa/y5q96ovFVzBk22b9IjxJ9pwM1f6VxknAmTLdOg4+IDKlqwgutnksSjaQsX6Hr2GdOhPKB1Tm8lFv4ndSZHUzt0zwD6/7SbCQovntD63IQ5xNwO5zOTTEJuAfGipMI9i1K4DnTEcO6QPAs5Eep4kUN8TARGCotVA11G2cD0YvUBAb/zUYG0BxcaVVj0eYvf/DEHkeUfXKryFFQOJVtvFPNDVvp5ifVreF12X4qqwqyhZU4v8iANqMhwxXkgv4IGO1Hx2kZTQaiCgHVgpmPrylz1bv4ie8CIw0Hr14zvITe5DMdhGR8lxDAosuAe2LI1KYQwN7YOrK8vDYD0BGY2lUUhhRH25UXBPJAf/rNC7yQKTzdomB7elcLDtx24/HmXdFtxEkXCmvdAAELutK1lv9SimMaYmsbdNY4D1PBOiyva7PGj6JavopNyYj84MrBFNM5IW/pzfT9R4Hth9B6PWsCOAHZfSZNaWxp2FS6vS/+WW7p74rhBvXx0xJYrd8Y3DcrvuiXgLxqtq2I/IVveR3M2VfQWmVilcyQ8ccsSA+gySYhhTnmPE/waP03/cXDQrcrgtNJWSZ7vAWI6sL/DYeuvPMkfXDysGXoJxEQwiTTh0Y9XVllgyCvIAScM2Un5pXZ5bLyAkRbmzSIG1BrKgfaY9faUsDTDaiOHXBrc7vkTHeqZlMOhrc9qRnqh5nlzxhtZUGoKQdtRs9yTBVPUo5QG4wHJ46NgPzzll+w4M6+LEckVxjRB4QaHwNrUpblgyR8fGPn6rw5XK6W9T1gUTCvviEOg4CsD25BGXsP0LN4iLh7eeOHxgPGHUWGVpYqCkSr8NbqP/rvZC3Pt6g7tR92qAffa9pX7t0zJHDYfwnnnyqjKfKGqkwA7fQlzYWsBETM1iL3DQz2mb/5BdnCPMk+g7ewkX3sw9cuooQgHQIQnkwjT9e2SUaTxtm9RSeUJuyYSeLJEqxhVUAmYP8wXTQP2l2fMv17O43DodxAJ/2n/nu8sMqQ33bt3nXY8GXrZbQymsergoXlitoG1IVpizCoYAFrQnWsfeikIC6ErAtlEQrTyCL7HJWes0cpOmuLYtQZV+GjaTu8mhLuULW3YvDPJzwGoJgRl8TpHmxXMT6rCD36SJX75YA1CGqaORW5UGoBxABpm+SWDyoDj/guZfC8K1a4HOwuL7C8wwJ3lnq38Uu8o3I3fuRY/7aQgzZQiGZYmQyVbs2y3iXS5CLKDY0rNYNv4b+vZO7JuODh600xqkrhbRxHvsvfkWs2Xgh0U2PBC+lVj/Xo4oYC8jRybB2bAb71sXMIygJUrMRVrukFGqUfMQ5L6ZrB4nxKUy/bONHymjLu0hzmINc4G4MTSTE3MssQKsSqWoupGD3Q17oQtU9H0QVIWEfPjlsInFLt3qb1kL+2bGtGo2lgStfaQjRQX39qj9lE9DXL8Yis4r1SRHksBDDX/ESZLDvuZA4XKNfSQKSEPRB9jr5Zr00dGCL69JlZ7toAqPfzEs/1wWy3YF2bYABGnq6XK4dPhot/jc0H4suahCnWQfOm6qMONxtigtUwwufvSE3tMvTTRTaN2KiZVSEYEd+y/QWPD+JCRrY/axL/gdiFsHGaKsxuaiIK1FpwDejVl1L1UD0x1/MlE8cQzIDk41hcFlJWKsDPOS6g5eTZrEBrHobPRvMJdKjqvoojJDFhPxtdBrCLaZcmIjTwnWTL6ncWi33n4+tnvGiTSLdhE2ydeOKBbghtvrCxS0HKTIebvP05MUHs/QjbgD4Lv4RC01QlOxsSr9lp8CS6QKi5ZUOODw3BawXuXiyIPNrbf+H9Z6xmNqAl7dcco3Tgi5/02D9lhjCaP9sjiwJ1k5YVgY+FlTsIHthFz3pa4pBBuG2RO1mYdUg2GG8QMN+sSYzTJyKQUDCcRBip6p8Wy1vjMB1jsQv78BxMJkyDPW5Z6b9z4NEvXY6U0CYDQKx5dSZikR5TV1ioqyyM/MjmVTdwFjUuBmp/EXn3Rcn9AxRjbISVFuY6LKFaS/gk7VIwCbIQ+dV6PEUrHh8USBBShaH/lcq9U8E2ixufh8KHVVhtY+4qKGziVluj7w=",
+    "timestamp": 1764651890643
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/getTenant/i3v4rfgb",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "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",
+    "timestamp": 1764651890643
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/settings/api/treatmentCatalog/73313fwi",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "message": "suc_treatmentcatalogFetched",
+      "tentUuid": null,
+      "data": {
+        "getTreatmentCatalogList": [
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "y0e0x3t6",
+            "tentProcedureCatalogName": "Anastomosis Of Pulmonary-Subclavian Artery By Blalock-Taussig Operation",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 107.21,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 107.21,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [
+              {
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST",
+                "taxPercent": 18
+              }
+            ],
+            "treatmentCatalogUuid": "cwal0emc",
+            "tentProcedureCatalogName": "Appointment",
+            "tentProcedureCatalogDesc": null,
+            "tentProcedureCatalogPrice": 100,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 118,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": null,
+            "hsnCode": null,
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [
+              {
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST",
+                "taxPercent": 18
+              }
+            ],
+            "treatmentCatalogUuid": "cuqhrd7c",
+            "tentProcedureCatalogName": "Bronchial Arteriogram",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 11.0169,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 13,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": true,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [
+              {
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST",
+                "taxPercent": 18
+              }
+            ],
+            "treatmentCatalogUuid": "46shx6uf",
+            "tentProcedureCatalogName": "Computerized Cineangiography",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 101,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 119.18,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": ""
+          },
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "8he71zrd",
+            "tentProcedureCatalogName": "Consultation",
+            "tentProcedureCatalogDesc": null,
+            "tentProcedureCatalogPrice": 100,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 100,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": null,
+            "hsnCode": null,
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "vn5iypia",
+            "tentProcedureCatalogName": "fever",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 119.18,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 119.18,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "e4wkqf6x",
+            "tentProcedureCatalogName": "Follow-up visit",
+            "tentProcedureCatalogDesc": null,
+            "tentProcedureCatalogPrice": 100,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 100,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": null,
+            "hsnCode": null,
+            "sacCode": null
+          }
+        ]
+      }
+    },
+    "timestamp": 1764651894355
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/settings/api/treatmentCatalog/73313fwi",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "success",
+      "message": "suc_treatmentcatalogFetched",
+      "tentUuid": null,
+      "data": {
+        "getTreatmentCatalogList": [
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "y0e0x3t6",
+            "tentProcedureCatalogName": "Anastomosis Of Pulmonary-Subclavian Artery By Blalock-Taussig Operation",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 107.21,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 107.21,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [
+              {
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST",
+                "taxPercent": 18
+              }
+            ],
+            "treatmentCatalogUuid": "cwal0emc",
+            "tentProcedureCatalogName": "Appointment",
+            "tentProcedureCatalogDesc": null,
+            "tentProcedureCatalogPrice": 100,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 118,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": null,
+            "hsnCode": null,
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [
+              {
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST",
+                "taxPercent": 18
+              }
+            ],
+            "treatmentCatalogUuid": "cuqhrd7c",
+            "tentProcedureCatalogName": "Bronchial Arteriogram",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 11.0169,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 13,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": true,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [
+              {
+                "taxUuid": "6jddhd0h",
+                "taxName": "GST",
+                "taxPercent": 18
+              }
+            ],
+            "treatmentCatalogUuid": "46shx6uf",
+            "tentProcedureCatalogName": "Computerized Cineangiography",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 101,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 119.18,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": ""
+          },
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "8he71zrd",
+            "tentProcedureCatalogName": "Consultation",
+            "tentProcedureCatalogDesc": null,
+            "tentProcedureCatalogPrice": 100,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 100,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": null,
+            "hsnCode": null,
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "vn5iypia",
+            "tentProcedureCatalogName": "fever",
+            "tentProcedureCatalogDesc": "",
+            "tentProcedureCatalogPrice": 119.18,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 119.18,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": false,
+            "hsnCode": "",
+            "sacCode": null
+          },
+          {
+            "taxtInfo": [],
+            "treatmentCatalogUuid": "e4wkqf6x",
+            "tentProcedureCatalogName": "Follow-up visit",
+            "tentProcedureCatalogDesc": null,
+            "tentProcedureCatalogPrice": 100,
+            "procedureCatalogDiscount": null,
+            "totalPrice": 100,
+            "isPlanned": false,
+            "mastTentUuid": "73313fwi",
+            "discountUnit": "%",
+            "privilegedCost": null,
+            "privilegedCostTotal": null,
+            "inclusiveTax": null,
+            "hsnCode": null,
+            "sacCode": null
+          }
+        ]
+      }
+    },
+    "timestamp": 1764651895665
+  },
+  {
+    "url": "https://flash.lyf.yoga/files/node/calendarSocket/update/appointments/i3v4rfgb/73313fwi/lkxmxzpo?type=appointment",
+    "method": "POST",
+    "payload": {},
+    "status": null,
+    "response": null,
+    "timestamp": 1764651904155
+  }
+]

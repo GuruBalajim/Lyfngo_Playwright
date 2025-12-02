@@ -1,0 +1,2717 @@
+[
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/getPracticeList/gv6yd5oq",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "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",
+    "timestamp": 1764656746596
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/saveUserLoginTime/i3v4rfgb",
+    "method": "POST",
+    "payload": {},
+    "status": 200,
+    "response": {
+      "status": "success",
+      "message": "suc_tentUserUpdated",
+      "tentUuid": "73313fwi",
+      "data": "i3v4rfgb"
+    },
+    "timestamp": 1764656752838
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenantMaster/getTentUserByRole/73313fwi/all",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "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",
+    "timestamp": 1764656753377
+  },
+  {
+    "url": "https://maps.googleapis.com/maps/api/js?key=AIzaSyDkbsUb4xEf0-417uOwB286KPa0mILc6ok&v=weekly&libraries=places&loading=async&callback=initMap",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "\n\nwindow.google = window.google || {};\ngoogle.maps = google.maps || {};\n(function() {\n  var rules = {\n    createHTML: function(src) {\n      return src;\n    },\n    createScriptURL: function(src) {\n      return src;\n    }\n  };\n  var ttPolicy;\n  \n  try {\n   ttPolicy = window.trustedTypes.createPolicy('google-maps-api-loader', rules);\n  } catch(e) {\n    ttPolicy = rules;\n  }\n  \n  function getScript(src) {\n    var a, nonce = ((a = document.querySelector(\"script[nonce]\")) == null ? void 0 : a.nonce) || \"\";\n    var s = document.createElement('script');\n    \n    s.src = ttPolicy.createScriptURL(src);\n    s.nonce = nonce;\n    document.head.appendChild(s);\n  }\n  \n  var modules = google.maps.modules = {};\n  google.maps.__gjsload__ = function(name, text) {\n    modules[name] = text;\n  };\n  \n  google.maps.Load = function(apiLoad) {\n    delete google.maps.Load;\n    apiLoad([0.009999999776482582,[null,[[\"https://khms0.googleapis.com/kh?v=1003\\u0026hl=en-US\\u0026gl=US\\u0026\",\"https://khms1.googleapis.com/kh?v=1003\\u0026hl=en-US\\u0026gl=US\\u0026\"],null,null,null,1,\"1003\",[\"https://khms0.google.com/kh?v=1003\\u0026hl=en-US\\u0026gl=US\\u0026\",\"https://khms1.google.com/kh?v=1003\\u0026hl=en-US\\u0026gl=US\\u0026\"]],null,null,null,null,[[\"https://cbks0.googleapis.com/cbk?\",\"https://cbks1.googleapis.com/cbk?\"]],[[\"https://khms0.googleapis.com/kh?v=169\\u0026hl=en-US\\u0026gl=US\\u0026\",\"https://khms1.googleapis.com/kh?v=169\\u0026hl=en-US\\u0026gl=US\\u0026\"],null,null,null,null,\"169\",[\"https://khms0.google.com/kh?v=169\\u0026hl=en-US\\u0026gl=US\\u0026\",\"https://khms1.google.com/kh?v=169\\u0026hl=en-US\\u0026gl=US\\u0026\"]],null,null,null,null,null,null,null,[[\"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?hl=en-US\\u0026gl=US\\u0026\",\"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?hl=en-US\\u0026gl=US\\u0026\"]]],[\"en-US\",\"US\",null,0,null,null,\"https://maps.gstatic.com/mapfiles/\",null,\"https://maps.googleapis.com\",\"https://maps.googleapis.com\",null,\"https://maps.google.com\",null,\"https://maps.gstatic.com/maps-api-v3/api/images/\",\"https://www.google.com/maps\",null,\"https://www.google.com\",1,\"https://maps.googleapis.com/maps_api_js_slo/log?hasfast=true\",0,1],[\"https://maps.googleapis.com/maps-api-v3/api/js/63/1b\",\"3.63.1b\"],[3661812904],null,null,null,[112],null,null,\"initMap\",[\"places\"],null,1,\"https://khms.googleapis.com/mz?v=1003\\u0026\",\"AIzaSyDkbsUb4xEf0-417uOwB286KPa0mILc6ok\",\"https://earthbuilder.googleapis.com\",\"https://earthbuilder.googleapis.com\",null,\"https://mts.googleapis.com/maps/vt/icon\",[[\"https://maps.googleapis.com/maps/vt\"],[\"https://maps.googleapis.com/maps/vt\"],null,null,null,null,null,null,null,null,null,null,[\"https://www.google.com/maps/vt\"],\"/maps/vt\",760000000,760,760519583],2,500,[null,null,null,null,\"https://www.google.com/maps/preview/log204\",\"\",\"https://static.panoramio.com.storage.googleapis.com/photos/\",[\"https://geo0.ggpht.com/cbk\",\"https://geo1.ggpht.com/cbk\",\"https://geo2.ggpht.com/cbk\",\"https://geo3.ggpht.com/cbk\"],\"https://maps.googleapis.com/maps/api/js/GeoPhotoService.GetMetadata\",\"https://maps.googleapis.com/maps/api/js/GeoPhotoService.SingleImageSearch\",[\"https://lh3.ggpht.com/jsapi2/a/b/c/\",\"https://lh4.ggpht.com/jsapi2/a/b/c/\",\"https://lh5.ggpht.com/jsapi2/a/b/c/\",\"https://lh6.ggpht.com/jsapi2/a/b/c/\"],\"https://streetviewpixels-pa.googleapis.com/v1/tile\",[\"https://lh3.googleusercontent.com/\",\"https://lh4.googleusercontent.com/\",\"https://lh5.googleusercontent.com/\",\"https://lh6.googleusercontent.com/\"]],null,null,null,null,\"/maps/api/js/ApplicationService.GetEntityDetails\",0,null,null,null,null,null,[\"63.1b\"],1,0,[1],\"CgASgTQI+AUSfAgBEnhodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBTYXRlbGxpdGUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfAgCEnhodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBTYXRlbGxpdGUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfAgDEnhodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBTYXRlbGxpdGUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USdggEEnJodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb24tRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfggFEnpodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25Mb3dMaWdodC1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ/CAYSe2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvblNhdGVsbGl0ZS1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJzCAcSb2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcC1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJzCAgSb2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcC1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ9CAkSeWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcEFtYmlhY3RpdmUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2UScwgKEm9odHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXAtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfAgLEnhodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBTYXRlbGxpdGUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2UScwgMEm9odHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVRlcnJhaW4tRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USdggNEnJodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb24tRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USdggOEnJodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb24tRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfQgPEnlodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBBbWJpYWN0aXZlLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEoMBCBASf2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcEFtYmlhY3RpdmVMb3dCaXQtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfggREnpodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25Mb3dMaWdodC1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ6CBISdmh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVHJhbnNpdEZvY3VzZWQtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2UScwgTEm9odHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXAtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USeQgUEnVodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvdXRlT3ZlcnZpZXctRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2UScwgVEm9odHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXAtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfQgWEnlodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25BbWJpZW50LUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEoEBCBcSfWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkFtYmllbnREYXJrLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEoMBCBkSf2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstQmFzZW1hcEVkaXRpbmdTYXRlbGxpdGUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2UScwgaEm9odHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXAtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USdwgbEnNodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBEYXJrLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEn0IHBJ5aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1Sb3V0ZU92ZXJ2aWV3RGFyay1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ3CB0Sc2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVGVycmFpbkRhcmstRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfggeEnpodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVRyYW5zaXRGb2N1c2VkRGFyay1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJzCB8Sb2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcC1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ3CCASc2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstUm9hZG1hcERhcmstRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USdwghEnNodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLVJvYWRtYXBEYXJrLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEoABCCUSfGh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkhpZ2hEZXRhaWwtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USiQEIJhKEAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkhpZ2hEZXRhaWxMb3dMaWdodC1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJyCCkSbmh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVHJhdmVsLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEnYIKhJyaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1UcmF2ZWxEYXJrLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEn8IKxJ7aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uU2F0ZWxsaXRlLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEn8ILBJ7aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1UZXJyYWluVmVjdG9yQ2xpZW50LUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEoMBCC0Sf2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstVGVycmFpblZlY3RvckNsaWVudERhcmstRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfQguEnlodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25BbWJpZW50LUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEoEBCC8SfWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkFtYmllbnREYXJrLUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEn0IMBJ5aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1BaXJRdWFsaXR5SGVhdG1hcC1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRKBAQgxEn1odHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLUFpclF1YWxpdHlIZWF0bWFwRGFyay1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ6CDISdmh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkVnbW0tRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USggEIMxJ+aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uRWdtbUxvd0xpZ2h0LUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEoMBCDQSf2h0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbkVnbW1TYXRlbGxpdGUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2USfAg1EnhodHRwczovL3d3dy5nc3RhdGljLmNvbS9tYXBzL3Jlcy9Db21wYWN0TGVnZW5kU2RrLU5hdmlnYXRpb25UdW5uZWwtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2UShQEINhKAAWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvblR1bm5lbExvd0xpZ2h0LUZldGNoYWJsZVN0eWxlU2V0U2RrLTUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlEn0INxJ5aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vbWFwcy9yZXMvQ29tcGFjdExlZ2VuZFNkay1OYXZpZ2F0aW9uR2xhc3Nlcy1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ5CDgSdWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstSW1tZXJzaXZlVmlldy1GZXRjaGFibGVTdHlsZVNldFNkay01MTk5NTQ1MGU2MzdlZmFkZjdlMGZiMGNlNTkxMWEzZRJ9CDkSeWh0dHBzOi8vd3d3LmdzdGF0aWMuY29tL21hcHMvcmVzL0NvbXBhY3RMZWdlbmRTZGstTmF2aWdhdGlvbk1pbk1vZGUtRmV0Y2hhYmxlU3R5bGVTZXRTZGstNTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2UiIDUxOTk1NDUwZTYzN2VmYWRmN2UwZmIwY2U1OTExYTNlKAEycmh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy92dC9zeGZvcm1zP3Y9NTE5OTU0NTBlNjM3ZWZhZGY3ZTBmYjBjZTU5MTFhM2Umc3R5bGVyX3N1YnR5cGU9U1RZTEVSX0xFR0VORF9TVUJUWVBFX1NESzpgCi6AfIB4gHSAcIBsgGiAZIBggFyAWIBUgFCATIBIgESAQIA8gDiANIAwgCyAKIAkEgQIABAAEgQIARABEgQIAhACEg0IAxD///////////8BEg0IBBD+//////////8BQgNzZGs46Y60FjjriLgWOO7fuRY46pDzIg==\",null,1,0.009999999776482582,null,[[[6,\"1764596362\"]]],1,\"async\"], loadScriptTime);\n  };\n  var loadScriptTime = (new Date).getTime();\n  getScript(\"https://maps.googleapis.com/maps-api-v3/api/js/63/1b/places.js\");\n  getScript(\"https://maps.googleapis.com/maps-api-v3/api/js/63/1b/main.js\");\n})();\n",
+    "timestamp": 1764656767848
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/auth/getDynamicMenu/i3v4rfgb/73313fwi",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": {
+      "status": "SUCCESS",
+      "message": "suc_dynamicMenuFetched",
+      "tentUuid": null,
+      "data": {
+        "userData": {
+          "mastRoleUuid": "6x5b4gg",
+          "userRole": "Owner",
+          "groupName": "health care",
+          "tentName": "Hosptial_multicare",
+          "tentSpecialization": null,
+          "mastTentTypeId": 154,
+          "mastTentTypeName": "Hospital",
+          "tentSubscriptionExpriryDt": "2026-12-20T05:30",
+          "tentSubscriptionStatus": "true",
+          "tentMobileNumber": "9994431697",
+          "tentEmail": "gurubalaji.m@rigelsoft.in",
+          "countryName": "India",
+          "countryCode": "+91",
+          "countryTax": 18,
+          "countryTimezoneName": "New Delhi",
+          "countryTimezoneOffset": "+5:30",
+          "currencyCode": "INR",
+          "daysLeft": 383,
+          "dateTimeFormat": "dd/MM/yyyy",
+          "countryCurrencyMinorUnit": "2",
+          "currencyCountryName": null,
+          "countryTimezone": "(UTC +05:30) Asia/Kolkata",
+          "docDriveUuid": null,
+          "tentUserProfilePicUuid": null,
+          "mastAddressVO": {
+            "addressType": null,
+            "address1": "Coimbatore, Tamil Nadu, India",
+            "address2": null,
+            "address3": null,
+            "districtCode": null,
+            "stateCode": null,
+            "postalCode": null,
+            "countryCode": "IN",
+            "locationLatLongitude": null,
+            "mastuuid": null,
+            "countryName": "India",
+            "stateName": "Tamil Nadu",
+            "country": {
+              "mastLookupKey": "IN",
+              "mastLookupValue": "India",
+              "mastLookupType": "CNT"
+            },
+            "tentCountry": null,
+            "addressUuid": "x6gc5kfi",
+            "state": {
+              "mastState": "Tamil Nadu"
+            },
+            "tentRegNo": null,
+            "city": null,
+            "cityCode": null
+          },
+          "ownerTentUserUuid": "gv6yd5oq",
+          "groupId": "fyi6pmtm",
+          "totalBalance": 1000,
+          "defaultIntegrationForOnlineMeeting": null,
+          "defaultIntegrationForPayment": "Razorpay",
+          "isJitsiEnabled": false,
+          "jitsiAppId": null,
+          "isCalenderIntegrated": false,
+          "isMultipleTenant": false,
+          "isMultipleTenantForSubPractise": false,
+          "isShowMultipleTenant": false,
+          "isAccessToAllAppointment": "Yes",
+          "isAppointmentMandatory": false,
+          "startTime": null,
+          "occupancy": 0,
+          "consult": false,
+          "endTime": null,
+          "currencyEnable": true
+        },
+        "dynamicMenu": {
+          "subExpired": false,
+          "bottomMenu": [
+            {
+              "mastMenuUuid": "9tpadv0s",
+              "featureList": [
+                {
+                  "mastFeatureName": "Chat consult",
+                  "mastFeatureUuid": "64ukuzs9",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Chat consult",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "b3y7awjb",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 70,
+              "mastMenuName": "Chatbot",
+              "mastMenuUrl": "chats",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Consult_icon.svg",
+              "mastMenuHovericon": "b2bmenu230831084836.png",
+              "colourCode1": "#0054AB",
+              "colourCode2": "#D6EAFF",
+              "seq": "1",
+              "menuOrder": null,
+              "mastFeatureName": "Chat consult",
+              "mastMenuOrder": 7,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "40ikb2iz",
+              "featureList": [
+                {
+                  "mastFeatureName": "Profile",
+                  "mastFeatureUuid": "st7w70q7",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Profile",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "33ysl8ne",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 38,
+              "mastMenuName": "Microsite",
+              "mastMenuUrl": "profile",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Microsite_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/lyfngo/SIT/uploads/b2bmenu/mobile/b2bmenu240208101726_YTincF1N2.png",
+              "colourCode1": "#02B7A5",
+              "colourCode2": "#DFFFFC",
+              "seq": "17",
+              "menuOrder": null,
+              "mastFeatureName": "Profile",
+              "mastMenuOrder": 8,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "6xvc3uc9",
+              "featureList": [
+                {
+                  "mastFeatureName": "Events",
+                  "mastFeatureUuid": "fq26adhz",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Events",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "tyc160zg",
+                  "isApplicableMob": false,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 74,
+              "mastMenuName": "Events",
+              "mastMenuUrl": "events",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Events_icon.svg",
+              "mastMenuHovericon": null,
+              "colourCode1": "#E5C100",
+              "colourCode2": "#FFF6C8",
+              "seq": "14",
+              "menuOrder": null,
+              "mastFeatureName": "Events",
+              "mastMenuOrder": 9,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": false,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "4xyngjbf",
+              "featureList": [
+                {
+                  "mastFeatureName": "Chat consult",
+                  "mastFeatureUuid": "64ukuzs9",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Chat consult",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "v230e4uu",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 40,
+              "mastMenuName": "Chat bots",
+              "mastMenuUrl": "consult",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Consult_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/lyfngo/SIT/uploads/b2bmenu/mobile/b2bmenu240208103650_uMt0gTnj-.png",
+              "colourCode1": "#0054AB",
+              "colourCode2": "#D6EAFF",
+              "seq": "14",
+              "menuOrder": null,
+              "mastFeatureName": "Chat consult",
+              "mastMenuOrder": 11,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "a08xrw2r",
+              "featureList": [
+                {
+                  "mastFeatureName": "Attendance",
+                  "mastFeatureUuid": "trhnyggw",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Attendance",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "p0ra14u5",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 76,
+              "mastMenuName": "Attendance",
+              "mastMenuUrl": "attendance",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Attendence_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/lyfngo/SIT/uploads/b2bmenu/mobile/b2bmenu240202032221_LoggUcnts.png",
+              "colourCode1": "#00C500",
+              "colourCode2": "#D0FFD0",
+              "seq": "12",
+              "menuOrder": null,
+              "mastFeatureName": "Attendance",
+              "mastMenuOrder": 13,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "qb4j8f56",
+              "featureList": [
+                {
+                  "mastFeatureName": "Access manager",
+                  "mastFeatureUuid": "h5ohazpn",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Access manager",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "soy7w3ho",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Auto ID generation",
+                  "mastFeatureUuid": "wgc7laue",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Auto ID generation",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "5ee4gfdo",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Call Logs",
+                  "mastFeatureUuid": "aw76boc8",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Call Logs",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "3mukqgfu",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Charting Template",
+                  "mastFeatureUuid": "mak1ti26",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Charting Template",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "x27g4dp4",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Clinical notes",
+                  "mastFeatureUuid": "2j2wb06v",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Clinical notes",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "dhin5m7l",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Commission Management",
+                  "mastFeatureUuid": "051az5fo",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Commission Management",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "8n6z2dnb",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Consent form",
+                  "mastFeatureUuid": "ng5o2oj3",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Consent form",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "g4pk83s1",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Customize",
+                  "mastFeatureUuid": "4a060c7y",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Customize",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "8bjdwegp",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Diet Lifestyle",
+                  "mastFeatureUuid": "dg5fboty",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Diet Lifestyle",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "lljds3fq",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Discount management",
+                  "mastFeatureUuid": "4pf78g7t",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Discount management",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "9456w0ka",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Drug catalog",
+                  "mastFeatureUuid": "6g6zpelj",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Drug catalog",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "rj1ep7ed",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Drug instruction",
+                  "mastFeatureUuid": "ww4iz8kd",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Drug instruction",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "usn64m37",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Field Customization",
+                  "mastFeatureUuid": "vlpcax38",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Field Customization",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "wceisldr",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Import Export ",
+                  "mastFeatureUuid": "4butglgg",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Import Export ",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ake9htoe",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "KnowHub",
+                  "mastFeatureUuid": "drp367w7",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "KnowHub",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "p163tcdk",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Lab Order",
+                  "mastFeatureUuid": "kf9lr02p",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Lab Order",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "etmuwei4",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Lookup Customization",
+                  "mastFeatureUuid": "rw9edhs8",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Lookup Customization",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "sq3oht1l",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Package",
+                  "mastFeatureUuid": "ky0abkem",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Package",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "qaamn64q",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Patient group",
+                  "mastFeatureUuid": "1xr901t5",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Patient group",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ga66pqin",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Payment modes",
+                  "mastFeatureUuid": "jbx7z6w1",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Payment modes",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "r0lf5sju",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Practice details",
+                  "mastFeatureUuid": "8myuz66w",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Practice details",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "dhwu7hll",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Pricing catalog",
+                  "mastFeatureUuid": "vscfjyut",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Pricing catalog",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "74rxazfe",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Public holiday",
+                  "mastFeatureUuid": "r8gch4j2",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Public holiday",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ij35pzd0",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Settings calendar",
+                  "mastFeatureUuid": "t4v3sq35",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Settings calendar",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "xxf32gjv",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Settings communication",
+                  "mastFeatureUuid": "q14n8w7u",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Settings communication",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "cgvg7qfy",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Settings integration",
+                  "mastFeatureUuid": "yctvpu1u",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Settings integration",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "21yx5xwq",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Settings notification",
+                  "mastFeatureUuid": "pjiqqrab",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Settings notification",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "8vixpo2h",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Staff management",
+                  "mastFeatureUuid": "gxhap5qm",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Staff management",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "2x3pvimd",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Tax catalog",
+                  "mastFeatureUuid": "h6cwhci",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Tax catalog",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "w9iifigw",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Vendor Master",
+                  "mastFeatureUuid": "0qa2cvot",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Vendor Master",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "bvc6mxjl",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Whatsapp template",
+                  "mastFeatureUuid": "j2hm16l6",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Whatsapp template",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "x16o01oo",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 33,
+              "mastMenuName": "Settings",
+              "mastMenuUrl": "setting",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Settings_icon.svg",
+              "mastMenuHovericon": "b2bmenu230831085220.png",
+              "colourCode1": "#5D5D5D",
+              "colourCode2": "#EBEBEB",
+              "seq": "2",
+              "menuOrder": null,
+              "mastFeatureName": "Access manager",
+              "mastMenuOrder": 17,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "83aapi2i",
+              "featureList": [
+                {
+                  "mastFeatureName": "Feedback",
+                  "mastFeatureUuid": "jeqi55cm",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Feedback",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "5aju745v",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 39,
+              "mastMenuName": "Feedbacks",
+              "mastMenuUrl": "feedback",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Feedback_icon.svg",
+              "mastMenuHovericon": "b2bmenu220620123121.png",
+              "colourCode1": "#9E00FF",
+              "colourCode2": "#F3E0FF",
+              "seq": "13",
+              "menuOrder": null,
+              "mastFeatureName": "Feedback",
+              "mastMenuOrder": 19,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            }
+          ],
+          "rightMenu": [
+            {
+              "mastMenuUuid": "te5z3a94",
+              "featureList": [
+                {
+                  "mastFeatureName": "My profile",
+                  "mastFeatureUuid": "4d0715yn",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "My profile",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "2ufr8qxw",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 61,
+              "mastMenuName": "My profile",
+              "mastMenuUrl": "accountdetails",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "account_circle",
+              "mastMenuHovericon": "b2bmenu220921123932.png",
+              "colourCode1": null,
+              "colourCode2": null,
+              "seq": "1",
+              "menuOrder": null,
+              "mastFeatureName": "My profile",
+              "mastMenuOrder": 1,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "1c0c9aio",
+              "featureList": [
+                {
+                  "mastFeatureName": "Subscription",
+                  "mastFeatureUuid": "zx781hfh",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Subscription",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ewl7udhe",
+                  "isApplicableMob": false,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 62,
+              "mastMenuName": "Subscription",
+              "mastMenuUrl": "accountsubscription",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "subscriptions",
+              "mastMenuHovericon": null,
+              "colourCode1": null,
+              "colourCode2": null,
+              "seq": "2",
+              "menuOrder": null,
+              "mastFeatureName": "Subscription",
+              "mastMenuOrder": 2,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": false,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "q88edym5",
+              "featureList": [
+                {
+                  "mastFeatureName": "Account setting",
+                  "mastFeatureUuid": "gq5q70bk",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Account setting",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "tqo0gb1c",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Active devices",
+                  "mastFeatureUuid": "3qndcqaw",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Active devices",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "otjpeh67",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Change login details",
+                  "mastFeatureUuid": "e58j1cqh",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Change login details",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "3f9d7lpr",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Change password",
+                  "mastFeatureUuid": "4smb6eqr",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Change password",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "kwhoapc4",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Delete account",
+                  "mastFeatureUuid": "9cr3yb3g",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Delete account",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "hicavl26",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "eSignature",
+                  "mastFeatureUuid": "rvul5epi",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "eSignature",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "587v0dla",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Logout",
+                  "mastFeatureUuid": "4uuu5noi",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Logout",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "7dnoodgv",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "PIN",
+                  "mastFeatureUuid": "n53zi1zu",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "PIN",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "i8r2k7lg",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Rasie ticket",
+                  "mastFeatureUuid": "7froexp3",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Rasie ticket",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "lhpih08g",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Ticket management",
+                  "mastFeatureUuid": "o88t0jh8",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Ticket management",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "31m8ojq7",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                }
+              ],
+              "mastMenuId": 63,
+              "mastMenuName": "Account settings",
+              "mastMenuUrl": "accountsetting",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "settings",
+              "mastMenuHovericon": "b2bmenu220921123901.png",
+              "colourCode1": null,
+              "colourCode2": null,
+              "seq": "3",
+              "menuOrder": null,
+              "mastFeatureName": "Account setting",
+              "mastMenuOrder": 3,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "qclsnfmz",
+              "featureList": [
+                {
+                  "mastFeatureName": "Practice details",
+                  "mastFeatureUuid": "8myuz66w",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Practice details",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "e4jv8f0q",
+                  "isApplicableMob": false,
+                  "isApprove": true
+                }
+              ],
+              "mastMenuId": 64,
+              "mastMenuName": "Add new practice",
+              "mastMenuUrl": "setting",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "note_add",
+              "mastMenuHovericon": null,
+              "colourCode1": null,
+              "colourCode2": null,
+              "seq": "4",
+              "menuOrder": null,
+              "mastFeatureName": "Practice details",
+              "mastMenuOrder": 4,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": false,
+              "display": true
+            }
+          ],
+          "topMenu": [
+            {
+              "mastMenuUuid": "v1zi5rmh",
+              "featureList": [
+                {
+                  "mastFeatureName": "Dashboard",
+                  "mastFeatureUuid": "q850sdsn",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Dashboard",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "c7ns3psy",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                }
+              ],
+              "mastMenuId": 28,
+              "mastMenuName": "Dashboards",
+              "mastMenuUrl": "dashboard",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Dashboard_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/lyfngo/SIT/uploads/b2bmenu/mobile/b2bmenu231108041822_WDpL-ZFr_.jpeg",
+              "colourCode1": "#0062DD",
+              "colourCode2": "#DAEAFF",
+              "seq": "1",
+              "menuOrder": null,
+              "mastFeatureName": "Dashboard",
+              "mastMenuOrder": 1,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "g2ifzwcd",
+              "featureList": [
+                {
+                  "mastFeatureName": "Practice Dashboard",
+                  "mastFeatureUuid": "d0ctoajm",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Practice Dashboard",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "3tlh0vp4",
+                  "isApplicableMob": false,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 82,
+              "mastMenuName": "Dashboard AI",
+              "mastMenuUrl": "dashboardai",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Events_icon.svg",
+              "mastMenuHovericon": null,
+              "colourCode1": "e22c34",
+              "colourCode2": "000000",
+              "seq": "26",
+              "menuOrder": null,
+              "mastFeatureName": "Practice Dashboard",
+              "mastMenuOrder": 2,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": false,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "rpudaj2x",
+              "featureList": [
+                {
+                  "mastFeatureName": "Appointment",
+                  "mastFeatureUuid": "5dubtr34",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Appointment",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "be3myqs3",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Block calendar",
+                  "mastFeatureUuid": "ts4cy9uv",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Block calendar",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "59it2xd1",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Category",
+                  "mastFeatureUuid": "j15qs4fm",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Category",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ugqc9p9n",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Print",
+                  "mastFeatureUuid": "p7mui6e4",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Print",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "0tpfloax",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Reminder",
+                  "mastFeatureUuid": "l7pglc4f",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Reminder",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "sdj9hjcq",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Settings calendar",
+                  "mastFeatureUuid": "t4v3sq35",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Settings calendar",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "qpnn28na",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                }
+              ],
+              "mastMenuId": 29,
+              "mastMenuName": "Calendar",
+              "mastMenuUrl": "calendar",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Appointment_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/lyfngo/SIT/uploads/b2bmenu/mobile/b2bmenu240207063355_qd1EBcPZ_.png",
+              "colourCode1": "#76CF00",
+              "colourCode2": "#E5FFC3",
+              "seq": "3",
+              "menuOrder": null,
+              "mastFeatureName": "Appointment",
+              "mastMenuOrder": 3,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "50ybz74v",
+              "featureList": [
+                {
+                  "mastFeatureName": "Patient details",
+                  "mastFeatureUuid": "ag17g14d",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Patient details",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "8cu5urne",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Health Board",
+                  "mastFeatureUuid": "o8xtp2at",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Health Board",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "myxmlngl",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Appointment",
+                  "mastFeatureUuid": "5dubtr34",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Appointment",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "i0e7r4xh",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Communication",
+                  "mastFeatureUuid": "fud9lw43",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Communication",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "p3qzx11o",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Vital signs",
+                  "mastFeatureUuid": "uysm3jpd",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Vital signs",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "628ty4dd",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Visit history",
+                  "mastFeatureUuid": "rbd1albt",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Visit history",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "xau5itvg",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Clinical notes",
+                  "mastFeatureUuid": "2j2wb06v",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Clinical notes",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "cxrom0mb",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Prescription",
+                  "mastFeatureUuid": "u2fftjqm",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Prescription",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "h5gkys05",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Files",
+                  "mastFeatureUuid": "ma7lzxzb",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Files",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "nme4m189",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Treatment",
+                  "mastFeatureUuid": "shz0qiju",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Treatment",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "2m26isfd",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Completed procedure",
+                  "mastFeatureUuid": "ihc5wym8",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Completed procedure",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "2129gl5z",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Billing",
+                  "mastFeatureUuid": "aqngsy9",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Billing",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ivygawlm",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Package",
+                  "mastFeatureUuid": "ky0abkem",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Package",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "zs1kjl1v",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Treatment plan",
+                  "mastFeatureUuid": "zut4v5xn",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Treatment plan",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "xkmegirz",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Dietplan",
+                  "mastFeatureUuid": "7f828vgr",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Dietplan",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "xz3c1yi9",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Billing history",
+                  "mastFeatureUuid": "5we4apgh",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Billing history",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "dxh397ar",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Patient feed",
+                  "mastFeatureUuid": "nlr1q1ok",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Patient feed",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ywua3w5n",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Review",
+                  "mastFeatureUuid": "dfdkluhz",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Review",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "dnj1ox5x",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Events and Forms",
+                  "mastFeatureUuid": "i778h4st",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Events and Forms",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ig8hglac",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Delete profile",
+                  "mastFeatureUuid": "naz2ucb2",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Delete profile",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "jyfzgia3",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Body area mapping",
+                  "mastFeatureUuid": "ddx01o6a",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Body area mapping",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "h0sgklyy",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Consultation",
+                  "mastFeatureUuid": "whrry5wf",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Consultation",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "voc02oy2",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Medical Certification",
+                  "mastFeatureUuid": "nwdgyjwa",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Medical Certification",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "lebhnutj",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Memo",
+                  "mastFeatureUuid": "zhltwrd9",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Memo",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "5cqtgb5n",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Patients",
+                  "mastFeatureUuid": "q50893u6",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Patients",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "afqr1kra",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Transcribe AI",
+                  "mastFeatureUuid": "ai6ybhpv",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Transcribe AI",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "erxnf78q",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 68,
+              "mastMenuName": "Patients",
+              "mastMenuUrl": "clients",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Patients_icon.svg",
+              "mastMenuHovericon": "b2bmenu230831084801.png",
+              "colourCode1": "#00A1FF",
+              "colourCode2": "#C9EBFF",
+              "seq": "11",
+              "menuOrder": "1",
+              "mastFeatureName": "Patient details",
+              "mastMenuOrder": 5,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "jvnso6n3",
+              "featureList": [
+                {
+                  "mastFeatureName": "Article",
+                  "mastFeatureUuid": "ccx5q7d1",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Article",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "13nu8nt7",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Communication plan",
+                  "mastFeatureUuid": "b2nfbas8",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Communication plan",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "a1hpmej0",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Reminder",
+                  "mastFeatureUuid": "jyv5buwo",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Reminder",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "0tine8nx",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "SMS Center",
+                  "mastFeatureUuid": "bz1wqnpa",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "SMS Center",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ytqtoaia",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Wallet",
+                  "mastFeatureUuid": "krcra9dy",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Wallet",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "sag7oa0s",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Whatsapp center",
+                  "mastFeatureUuid": "v4v0vord",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Whatsapp center",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "eiumhj7e",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 31,
+              "mastMenuName": "Communication",
+              "mastMenuUrl": "communication",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Channel_icon.svg",
+              "mastMenuHovericon": "b2bmenu221008115945.png",
+              "colourCode1": "#0099FF",
+              "colourCode2": "#D8EFFF",
+              "seq": "21",
+              "menuOrder": null,
+              "mastFeatureName": "Article",
+              "mastMenuOrder": 6,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "pczj7z1v",
+              "featureList": [
+                {
+                  "mastFeatureName": "Google Map Search",
+                  "mastFeatureUuid": "721iilrv",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Google Map Search",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "qgo8p151",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "LeadCommunication",
+                  "mastFeatureUuid": "a1qmjnyx",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "LeadCommunication",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "va8u859e",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "LeadDelete",
+                  "mastFeatureUuid": "6zrebf25",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "LeadDelete",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "u0zbsy0e",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Lead details",
+                  "mastFeatureUuid": "3tuiyok1",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Lead details",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "0ivksmis",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "LeadEnquiry",
+                  "mastFeatureUuid": "003ko4zz",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "LeadEnquiry",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "xbjwqj1y",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Leads",
+                  "mastFeatureUuid": "whawwrzr",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Leads",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "5jos2ehu",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 71,
+              "mastMenuName": "Leads",
+              "mastMenuUrl": "leads",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Leads_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Clients_icon.svg",
+              "colourCode1": "#FF0000",
+              "colourCode2": "#FFDBDB",
+              "seq": "10",
+              "menuOrder": null,
+              "mastFeatureName": "Google Map Search",
+              "mastMenuOrder": 10,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "9jc94asj",
+              "featureList": [
+                {
+                  "mastFeatureName": "Add stock",
+                  "mastFeatureUuid": "1wnx7jgz",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Add stock",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "2fa7mqd1",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Consume stock",
+                  "mastFeatureUuid": "gcekevo7",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Consume stock",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "pva1pa8z",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Inventory in mail",
+                  "mastFeatureUuid": "m2jkthmy",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Inventory in mail",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "xpxs5l7p",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "New item",
+                  "mastFeatureUuid": "3d8py8u",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "New item",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "7lrququs",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Print inventory",
+                  "mastFeatureUuid": "mgxfnkkw",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Print inventory",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "265fzplo",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Purchase Order",
+                  "mastFeatureUuid": "d9w6wxs9",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Purchase Order",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "dfb15mbi",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 35,
+              "mastMenuName": "Inventory",
+              "mastMenuUrl": "inventory",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": false,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/inventory_icon.svg",
+              "mastMenuHovericon": "b2bmenu221008120205.png",
+              "colourCode1": "#008080",
+              "colourCode2": "#D0FFFF",
+              "seq": "7",
+              "menuOrder": null,
+              "mastFeatureName": "Add stock",
+              "mastMenuOrder": 11,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "w69l324v",
+              "featureList": [
+                {
+                  "mastFeatureName": "Adjustment",
+                  "mastFeatureUuid": "p84yd9rw",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Adjustment",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "6mcy7u54",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Delete Invoice",
+                  "mastFeatureUuid": "k2sl4pwo",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Delete Invoice",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ya89ms6c",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Quick sale",
+                  "mastFeatureUuid": "edup8axj",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Quick sale",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "ayno8bbu",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 69,
+              "mastMenuName": "Quicksales",
+              "mastMenuUrl": "quicksale",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Quicksale_icon.svg",
+              "mastMenuHovericon": "b2bmenu230831084952.png",
+              "colourCode1": "#FFA500",
+              "colourCode2": "#FFECCA",
+              "seq": "2",
+              "menuOrder": null,
+              "mastFeatureName": "Adjustment",
+              "mastMenuOrder": 12,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "xkveunzu",
+              "featureList": [
+                {
+                  "mastFeatureName": "Expenses",
+                  "mastFeatureUuid": "8f9pw7ub",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Expenses",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "rbsz7mfa",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 36,
+              "mastMenuName": "Expenses",
+              "mastMenuUrl": "expenses",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": false,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Expenses_icon.svg",
+              "mastMenuHovericon": "b2bmenu221008120230.png",
+              "colourCode1": "#E74C3C",
+              "colourCode2": "#FFDAD7",
+              "seq": "7",
+              "menuOrder": null,
+              "mastFeatureName": "Expenses",
+              "mastMenuOrder": 14,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "quqi4t6o",
+              "featureList": [
+                {
+                  "mastFeatureName": "Attendance",
+                  "mastFeatureUuid": "trhnyggw",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Attendance",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "c0m46pye",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "BPR",
+                  "mastFeatureUuid": "2ii2ecj1",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "BPR",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "q2gpzxi7",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "EDS",
+                  "mastFeatureUuid": "rumkq6ye",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "EDS",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "u2dsna6i",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Invoiced details",
+                  "mastFeatureUuid": "h0pn71u3",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Invoiced details",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "712hdu7b",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "LDR",
+                  "mastFeatureUuid": "ihw7rw6x",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "LDR",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "43jiiy3j",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "New patients",
+                  "mastFeatureUuid": "5fmfaf6p",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "New patients",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "m3uwfecl",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Package",
+                  "mastFeatureUuid": "ky0abkem",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Package",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "e8rkbi1p",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "reportAppointment",
+                  "mastFeatureUuid": "7v17af1e",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "reportAppointment",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "f4qopmb7",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "reportDistributor",
+                  "mastFeatureUuid": "uqdej8p5",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "reportDistributor",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "pepgmppd",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                },
+                {
+                  "mastFeatureName": "Reports",
+                  "mastFeatureUuid": "d6si5r7h",
+                  "permissions": {
+                    "isCreate": false,
+                    "isRead": true,
+                    "isUpdate": false,
+                    "isDelete": false
+                  },
+                  "updateName": "Reports",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "qto94zdo",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "Reports in mail",
+                  "mastFeatureUuid": "p4hujroa",
+                  "permissions": {
+                    "isCreate": false,
+                    "isRead": true,
+                    "isUpdate": false,
+                    "isDelete": false
+                  },
+                  "updateName": "Reports in mail",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "acb9ke41",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                },
+                {
+                  "mastFeatureName": "SSR",
+                  "mastFeatureUuid": "evz28mdq",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "SSR",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "uwrap7nx",
+                  "isApplicableMob": true,
+                  "isApprove": true
+                }
+              ],
+              "mastMenuId": 32,
+              "mastMenuName": "Reports",
+              "mastMenuUrl": "report",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Reports_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/lyfngo/SIT/uploads/b2bmenu/mobile/b2bmenu240208095810_jQlHsmm6B.png",
+              "colourCode1": "#00DF5F",
+              "colourCode2": "#CCFFE2",
+              "seq": "18",
+              "menuOrder": null,
+              "mastFeatureName": "Attendance",
+              "mastMenuOrder": 15,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "0nuzcsoa",
+              "featureList": [
+                {
+                  "mastFeatureName": "Activities",
+                  "mastFeatureUuid": "6g1uvtnx",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Activities",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "c4ru277h",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 37,
+              "mastMenuName": "Activities",
+              "mastMenuUrl": "activities",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Microsite_icon.svg",
+              "mastMenuHovericon": "b2bmenu220620012815.png",
+              "colourCode1": "000000",
+              "colourCode2": "000000",
+              "seq": "19",
+              "menuOrder": null,
+              "mastFeatureName": "Activities",
+              "mastMenuOrder": 16,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "mlhixmcs",
+              "featureList": [
+                {
+                  "mastFeatureName": "Patients",
+                  "mastFeatureUuid": "q50893u6",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Patients",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "caqm6ppx",
+                  "isApplicableMob": false,
+                  "isApprove": true
+                }
+              ],
+              "mastMenuId": 66,
+              "mastMenuName": "Pharmacy",
+              "mastMenuUrl": "pharma",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Pharmacy_icon.svg",
+              "mastMenuHovericon": "b2bmenu221226060113.png",
+              "colourCode1": "#008D00",
+              "colourCode2": "#CEFFCE",
+              "seq": "6",
+              "menuOrder": null,
+              "mastFeatureName": "Patients",
+              "mastMenuOrder": 18,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": false,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "yg6fcqu0",
+              "featureList": [
+                {
+                  "mastFeatureName": "Add new product",
+                  "mastFeatureUuid": "88xdkcb0",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Add new product",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "nv6qgwtl",
+                  "isApplicableMob": true,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 67,
+              "mastMenuName": "Products",
+              "mastMenuUrl": "products",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": false,
+              "mastMenuDefaulticon": "https://ik.imagekit.io/LyfngoDev/B2B_Flash/Main_menu_icons/Product_icon.svg",
+              "mastMenuHovericon": "https://ik.imagekit.io/lyfngo/SIT/uploads/b2bmenu/mobile/b2bmenu240208100846_M8f9WK23DM.png",
+              "colourCode1": "#F39C12",
+              "colourCode2": "#FFECCD",
+              "seq": "7",
+              "menuOrder": null,
+              "mastFeatureName": "Add new product",
+              "mastMenuOrder": 20,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": true,
+              "display": true
+            },
+            {
+              "mastMenuUuid": "rc3m3vii",
+              "featureList": [
+                {
+                  "mastFeatureName": "Check in",
+                  "mastFeatureUuid": "5byradwa",
+                  "permissions": {
+                    "isCreate": true,
+                    "isRead": true,
+                    "isUpdate": true,
+                    "isDelete": true
+                  },
+                  "updateName": "Check in",
+                  "isDisplay": true,
+                  "menuFeatureUuid": "0k6igvbm",
+                  "isApplicableMob": false,
+                  "isApprove": false
+                }
+              ],
+              "mastMenuId": 72,
+              "mastMenuName": "Check In",
+              "mastMenuUrl": "checkin",
+              "mastParentMenuId": null,
+              "masterMenuStatus": true,
+              "commonMenuStatus": true,
+              "mastMenuDefaulticon": "checkin",
+              "mastMenuHovericon": "b2bmenu230831084458.png",
+              "colourCode1": null,
+              "colourCode2": null,
+              "seq": "22",
+              "menuOrder": null,
+              "mastFeatureName": "Check in",
+              "mastMenuOrder": 22,
+              "subMenu": null,
+              "updateName": null,
+              "applicableMob": false,
+              "display": true
+            }
+          ]
+        }
+      }
+    },
+    "timestamp": 1764656767863
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenantMaster/getTentUserByRole/73313fwi/all",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "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",
+    "timestamp": 1764656767866
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenantMaster/getMedeAccessRole/73313fwi",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": {
+      "data": [
+        {
+          "mastRoleUuid": "0jqduj05",
+          "mastRoleName": "Accountant",
+          "mastRoleDescription": "accountant",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": false,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": true,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "71oj69bq",
+          "mastRoleName": "Admin",
+          "mastRoleDescription": "Administrator",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": false,
+          "isNotificationAllowedForAllUsers": true,
+          "isNotificationAllowed": false,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "st1x1gvn",
+          "mastRoleName": "Agent",
+          "mastRoleDescription": "Agent",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": false,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": true,
+          "isDiscountCommission": true
+        },
+        {
+          "mastRoleUuid": "shdvetpe",
+          "mastRoleName": "Ayurvedic",
+          "mastRoleDescription": "Ayurvedic",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": true,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": true,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "mcoobf8a",
+          "mastRoleName": "Cashier",
+          "mastRoleDescription": "cashier",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": false,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": true,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "5ayrhezg",
+          "mastRoleName": "Doctor",
+          "mastRoleDescription": " The do is responsible for all sides of care of a patient. They diagnose, educate, and treat patients to ensure that they have the best possible care. A few of the main duties of a doctor are performing diagnostic tests, recommending specialists for patie",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": true,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": true,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "s7ay32u4",
+          "mastRoleName": "Lab Technician",
+          "mastRoleDescription": "Receiving, labeling and analyzing samples (blood, toxic, tissue etc.) Designing and executing laboratory testing according standard procedures. Conducting experiments under defined conditions to verify reject various types of hypotheses using refined scie",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": true,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": true,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "6x5b4gg",
+          "mastRoleName": "Owner",
+          "mastRoleDescription": "Owner",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": true,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": false,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "fm8k7n7z",
+          "mastRoleName": "Pharmacist",
+          "mastRoleDescription": "Pharmacists are healthcare professionals who specialize in the right way to use, store, preserve, and provide medicine.",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": false,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": false,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "zgbmztce",
+          "mastRoleName": "Physiotherapist",
+          "mastRoleDescription": "Physiotherapist",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": true,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": true,
+          "isDiscountCommission": false
+        },
+        {
+          "mastRoleUuid": "2yv1uxjj",
+          "mastRoleName": "Receptionist",
+          "mastRoleDescription": "Serves visitors by greeting, welcoming, and directing them appropriately. Notifies company personnel of visitor arrival. Maintains security and telecommunications system. Informs visitors by answering or referring inquiries",
+          "tentTypeName": "Hospital",
+          "mastTentTypeId": 154,
+          "isSpeciality": false,
+          "isNotificationAllowedForAllUsers": false,
+          "isNotificationAllowed": false,
+          "isDiscountCommission": false
+        }
+      ],
+      "message": "suc_accessRoleFetched",
+      "status": "success"
+    },
+    "timestamp": 1764656767867
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/saveUserLoginTime/i3v4rfgb",
+    "method": "POST",
+    "payload": {},
+    "status": 200,
+    "response": {
+      "status": "success",
+      "message": "suc_tentUserUpdated",
+      "tentUuid": "73313fwi",
+      "data": "i3v4rfgb"
+    },
+    "timestamp": 1764656767867
+  },
+  {
+    "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": {},
+    "timestamp": 1764656768164
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenant/getPracticeList/gv6yd5oq",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "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",
+    "timestamp": 1764656768803
+  },
+  {
+    "url": "https://flash.lyf.yoga/api/tenantMaster/getTentUserByRole/73313fwi/all",
+    "method": "GET",
+    "payload": null,
+    "status": 200,
+    "response": "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",
+    "timestamp": 1764656769246
+  }
+]

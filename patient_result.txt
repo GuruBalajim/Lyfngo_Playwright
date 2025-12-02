@@ -1,0 +1,34 @@
+
+PATIENT DATA VERIFICATION REPORT
+================================
+
+Expected Name     : Harishivamteste
+Displayed Name    : Harishivamteste 
+
+Expected Phone    : 7728769798
+Displayed Phone   : Not Found
+
+Expected Email    : gurubalaji@gmail.com
+Displayed Email   : gurubalaji@gmail.com
+
+Expected Address  : Ganapathy
+Displayed Address : Ganapathy
+
+Expected Pincode  : 641006
+Displayed Pincode : 641006
+
+Expected State    : Tamil Nadu
+Displayed State   : Tamil Nadu
+
+---------------------------------
+VERIFICATION STATUS
+---------------------------------
+Name       : PASS ✅
+Phone      : FAIL ❌
+Email      : PASS ✅
+Address    : PASS ✅
+Pincode    : PASS ✅
+State      : PASS ✅
+
+OVERALL RESULT :
+❌ FAILED
