@@ -1,6 +1,6 @@
 export const navAddAppointmentData = {
     patientSearchKey: "guru",
-    dateLabel: "Dec 09,",
+    dateLabel: "Dec 9,",
     doctorName: "Dr. Vicky",
     expectedMessage: "Appointment added successfully"
 };
